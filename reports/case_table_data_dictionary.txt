@@ -1,0 +1,18 @@
+Sex	Sex as recorded for SEER data
+Origin	Race/ethnic origin, abbreviated
+TotalIV	Total incidence of stage IV across all cancer types
+Total	Total incidence of cancer per year
+FractionIV	Fraction incidence that is stage IV
+StageIVDeath	Deaths accrued within 5 years from stage IV
+StageIVDeathRate	Fraction of stage IV incidence resulting in death within 5 years
+Death	All deaths accrued within 5 years from all stages
+AllDeathRate	Fraction of cancer incidence resulting in death within 5 years
+DeathIV	Fraction of cancer deaths resulting from stage IV diagnoses
+AllIVtoIII_Death	Deaths under all IV stopped at III
+AllIVtoIII_Averted	Difference in deaths from baseline
+Pct_AllIVtoIII_Averted	Pct of all deaths averted under IV to III
+Pct_AllIVtoIII_IVonly_Averted	Pct of stage IV deaths averted under IV to III
+AllIVtoI_II_III_Death	Deaths under all IV stopped evenly at I,II,III
+AllIVtoI_II_III_Averted	Difference in deaths from baseline
+Pct_AllIVtoI_II_III_Averted	Pct of all deaths averted
+Pct_AllIVtoI_II_III_IVonly_Averted Pct of all stage IV deaths averted

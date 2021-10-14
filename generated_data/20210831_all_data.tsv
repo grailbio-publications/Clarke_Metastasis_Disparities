@@ -1,0 +1,1141 @@
+Race_origin	Sex	Cancer	Stage	Rate	Count	Pop	Time	N	CSS
+Non-Hispanic White	Male	Lung and Bronchus	I	40.56	31006	76454019	60 mo	19964	0.6177
+Non-Hispanic White	Male	Lung and Bronchus	II	9.33	7131	76454019	60 mo	5279	0.3975
+Non-Hispanic White	Male	Lung and Bronchus	III	46	35172	76454019	60 mo	27102	0.1795
+Non-Hispanic White	Male	Lung and Bronchus	IV	91.16	69696	76454019	60 mo	56040	0.0356
+Non-Hispanic White	Male	Lung and Bronchus	Unknown/missing	17.9	13684	76454019	60 mo	8216	0.2039
+Non-Hispanic White	Male	Colon and Rectum	I	30.11	23024	76454019	60 mo	17717	0.9351
+Non-Hispanic White	Male	Colon and Rectum	II	27.3	20869	76454019	60 mo	16792	0.8425
+Non-Hispanic White	Male	Colon and Rectum	III	28.6	21867	76454019	60 mo	17964	0.7084
+Non-Hispanic White	Male	Colon and Rectum	IV	23.31	17822	76454019	60 mo	14741	0.1318
+Non-Hispanic White	Male	Colon and Rectum	Unknown/missing	9.42	7201	76454019	60 mo	5078	0.7031
+Non-Hispanic White	Male	Pancreas	I	2.33	1782	76454019	60 mo	1332	0.3799
+Non-Hispanic White	Male	Pancreas	II	9.15	6992	76454019	60 mo	5522	0.1456
+Non-Hispanic White	Male	Pancreas	III	3.08	2353	76454019	60 mo	1935	0.0413
+Non-Hispanic White	Male	Pancreas	IV	19.1	14605	76454019	60 mo	12005	0.021
+Non-Hispanic White	Male	Pancreas	Unknown/missing	4.93	3768	76454019	60 mo	2526	0.2415
+Non-Hispanic White	Male	Liver	I	8.85	6764	76454019	60 mo	5656	0.4275
+Non-Hispanic White	Male	Liver	II	5.11	3910	76454019	60 mo	3362	0.3689
+Non-Hispanic White	Male	Liver	III	5.61	4292	76454019	60 mo	3742	0.0754
+Non-Hispanic White	Male	Liver	IV	4.45	3403	76454019	60 mo	2943	0.0153
+Non-Hispanic White	Male	Liver	Unknown/missing	5.96	4555	76454019	60 mo	3400	0.1015
+Non-Hispanic White	Male	Breast	I	1.03	784	76454019	60 mo	577	0.959
+Non-Hispanic White	Male	Breast	II	1.37	1046	76454019	60 mo	826	0.9292
+Non-Hispanic White	Male	Breast	III	0.48	368	76454019	60 mo	312	0.8337
+Non-Hispanic White	Male	Breast	IV	0.25	189	76454019	60 mo	144	0.2226
+Non-Hispanic White	Male	Breast	Unknown/missing	0.18	141	76454019	60 mo	95	0.7588
+Non-Hispanic White	Male	NHL	I	16.3	12462	76454019	60 mo	9397	0.85
+Non-Hispanic White	Male	NHL	II	8.36	6390	76454019	60 mo	4988	0.7945
+Non-Hispanic White	Male	NHL	III	10.28	7860	76454019	60 mo	6144	0.7277
+Non-Hispanic White	Male	NHL	IV	22.15	16934	76454019	60 mo	13219	0.6598
+Non-Hispanic White	Male	NHL	Unknown/missing	4.57	3497	76454019	60 mo	2357	0.7748
+Non-Hispanic White	Male	Prostate	I	1.48	1132	76454019	60 mo	960	0.9913
+Non-Hispanic White	Male	Prostate	II	351.78	268949	76454019	60 mo	240864	0.9855
+Non-Hispanic White	Male	Prostate	III	36.39	27824	76454019	60 mo	25557	0.9767
+Non-Hispanic White	Male	Prostate	IV	26.16	20000	76454019	60 mo	17917	0.5631
+Non-Hispanic White	Male	Prostate	Unknown/missing	24.57	18787	76454019	60 mo	15797	0.916
+Non-Hispanic White	Male	Kidney and Renal Pelvis	I	33.39	25527	76454019	60 mo	18322	0.954
+Non-Hispanic White	Male	Kidney and Renal Pelvis	II	4.86	3715	76454019	60 mo	2984	0.8671
+Non-Hispanic White	Male	Kidney and Renal Pelvis	III	9.34	7137	76454019	60 mo	5603	0.7573
+Non-Hispanic White	Male	Kidney and Renal Pelvis	IV	10.32	7893	76454019	60 mo	6474	0.1456
+Non-Hispanic White	Male	Kidney and Renal Pelvis	Unknown/missing	3.52	2689	76454019	60 mo	1661	0.6828
+Non-Hispanic White	Male	Oral cavity and pharynx	I	8.39	6414	76454019	60 mo	4439	0.9049
+Non-Hispanic White	Male	Oral cavity and pharynx	II	5.3	4051	76454019	60 mo	2948	0.7949
+Non-Hispanic White	Male	Oral cavity and pharynx	III	7.57	5784	76454019	60 mo	4632	0.7429
+Non-Hispanic White	Male	Oral cavity and pharynx	IV	26.25	20071	76454019	60 mo	16979	0.6223
+Non-Hispanic White	Male	Oral cavity and pharynx	Unknown/missing	8.67	6628	76454019	60 mo	4659	0.7098
+Non-Hispanic White	Male	Ovary	I	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Ovary	II	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Ovary	III	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Ovary	IV	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Ovary	Unknown/missing	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Esophagus	I	3.61	2763	76454019	60 mo	2085	0.6441
+Non-Hispanic White	Male	Esophagus	II	4.25	3253	76454019	60 mo	2601	0.3866
+Non-Hispanic White	Male	Esophagus	III	4.76	3636	76454019	60 mo	3003	0.2262
+Non-Hispanic White	Male	Esophagus	IV	8.67	6628	76454019	60 mo	5530	0.04
+Non-Hispanic White	Male	Esophagus	Unknown/missing	3.04	2321	76454019	60 mo	1625	0.1821
+Non-Hispanic White	Male	Urinary Bladder	I	23.16	17707	76454019	60 mo	12805	0.8693
+Non-Hispanic White	Male	Urinary Bladder	II	10.03	7667	76454019	60 mo	5708	0.6399
+Non-Hispanic White	Male	Urinary Bladder	III	3.87	2961	76454019	60 mo	2171	0.5145
+Non-Hispanic White	Male	Urinary Bladder	IV	6.76	5169	76454019	60 mo	3878	0.1725
+Non-Hispanic White	Male	Urinary Bladder	Unknown/missing	3.6	2750	76454019	60 mo	1724	0.6727
+Non-Hispanic White	Male	Uterus	I	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Uterus	II	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Uterus	III	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Uterus	IV	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Uterus	Unknown/missing	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Melanoma of the Skin	I	65.45	50039	76454019	60 mo	34893	0.9762
+Non-Hispanic White	Male	Melanoma of the Skin	II	11.16	8530	76454019	60 mo	6253	0.8039
+Non-Hispanic White	Male	Melanoma of the Skin	III	6.35	4853	76454019	60 mo	3720	0.5963
+Non-Hispanic White	Male	Melanoma of the Skin	IV	4.32	3306	76454019	60 mo	2330	0.1912
+Non-Hispanic White	Male	Melanoma of the Skin	Unknown/missing	8.5	6502	76454019	60 mo	4220	0.8799
+Non-Hispanic White	Male	Thyroid	I	6.64	5080	76454019	60 mo	3814	0.9946
+Non-Hispanic White	Male	Thyroid	II	2.15	1643	76454019	60 mo	1282	0.9961
+Non-Hispanic White	Male	Thyroid	III	3.67	2809	76454019	60 mo	2172	0.9817
+Non-Hispanic White	Male	Thyroid	IV	2.98	2282	76454019	60 mo	1735	0.7138
+Non-Hispanic White	Male	Thyroid	Unknown/missing	1.1	840	76454019	60 mo	558	0.9361
+Non-Hispanic White	Male	Cervix	I	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Cervix	II	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Cervix	III	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Cervix	IV	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Cervix	Unknown/missing	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Myeloma	I	0	3	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Myeloma	II	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Myeloma	III	0	0	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Myeloma	IV	0	1	76454019	60 mo	0	NA
+Non-Hispanic White	Male	Myeloma	Unknown/missing	20.38	15585	76454019	60 mo	12186	0.5888
+Non-Hispanic White	Male	Stomach	I	4.82	3688	76454019	60 mo	2761	0.5914
+Non-Hispanic White	Male	Stomach	II	2.63	2007	76454019	60 mo	1628	0.3562
+Non-Hispanic White	Male	Stomach	III	2.08	1588	76454019	60 mo	1295	0.243
+Non-Hispanic White	Male	Stomach	IV	7.87	6017	76454019	60 mo	4937	0.039
+Non-Hispanic White	Male	Stomach	Unknown/missing	3.83	2930	76454019	60 mo	2090	0.544
+Non-Hispanic White	Male	Other	I	20.02	15308	76454019	60 mo	11654	0.8311
+Non-Hispanic White	Male	Other	II	12.3	9403	76454019	60 mo	7193	0.667
+Non-Hispanic White	Male	Other	III	11.77	8998	76454019	60 mo	6980	0.5175
+Non-Hispanic White	Male	Other	IV	14.87	11372	76454019	60 mo	8940	0.2614
+Non-Hispanic White	Male	Other	Unknown/missing	134.81	103071	76454019	60 mo	63324	0.4995
+Non-Hispanic White	Female	Lung and Bronchus	I	40.21	32886	81782826	60 mo	21011	0.7025
+Non-Hispanic White	Female	Lung and Bronchus	II	7.06	5776	81782826	60 mo	4094	0.4547
+Non-Hispanic White	Female	Lung and Bronchus	III	37.45	30628	81782826	60 mo	23011	0.2193
+Non-Hispanic White	Female	Lung and Bronchus	IV	70.49	57646	81782826	60 mo	45490	0.0581
+Non-Hispanic White	Female	Lung and Bronchus	Unknown/missing	16.36	13381	81782826	60 mo	8321	0.337
+Non-Hispanic White	Female	Colon and Rectum	I	21.65	17708	81782826	60 mo	13497	0.9474
+Non-Hispanic White	Female	Colon and Rectum	II	20.92	17106	81782826	60 mo	13615	0.8493
+Non-Hispanic White	Female	Colon and Rectum	III	21.74	17780	81782826	60 mo	14349	0.7203
+Non-Hispanic White	Female	Colon and Rectum	IV	16.82	13759	81782826	60 mo	11262	0.146
+Non-Hispanic White	Female	Colon and Rectum	Unknown/missing	7.1	5807	81782826	60 mo	4161	0.7251
+Non-Hispanic White	Female	Pancreas	I	1.95	1598	81782826	60 mo	1163	0.3525
+Non-Hispanic White	Female	Pancreas	II	7.46	6103	81782826	60 mo	4811	0.1445
+Non-Hispanic White	Female	Pancreas	III	2.38	1944	81782826	60 mo	1568	0.0483
+Non-Hispanic White	Female	Pancreas	IV	13.67	11176	81782826	60 mo	9064	0.0197
+Non-Hispanic White	Female	Pancreas	Unknown/missing	3.56	2912	81782826	60 mo	1994	0.2317
+Non-Hispanic White	Female	Liver	I	2.54	2080	81782826	60 mo	1653	0.432
+Non-Hispanic White	Female	Liver	II	1.15	940	81782826	60 mo	748	0.3459
+Non-Hispanic White	Female	Liver	III	1.2	985	81782826	60 mo	827	0.133
+Non-Hispanic White	Female	Liver	IV	0.95	776	81782826	60 mo	639	0.0278
+Non-Hispanic White	Female	Liver	Unknown/missing	1.64	1344	81782826	60 mo	971	0.1252
+Non-Hispanic White	Female	Breast	I	186.95	152896	81782826	60 mo	117478	0.9835
+Non-Hispanic White	Female	Breast	II	106.28	86920	81782826	60 mo	70972	0.9339
+Non-Hispanic White	Female	Breast	III	32.52	26599	81782826	60 mo	22041	0.7804
+Non-Hispanic White	Female	Breast	IV	18.27	14942	81782826	60 mo	11925	0.2848
+Non-Hispanic White	Female	Breast	Unknown/missing	13.88	11350	81782826	60 mo	7627	0.767
+Non-Hispanic White	Female	NHL	I	12.79	10457	81782826	60 mo	7903	0.8755
+Non-Hispanic White	Female	NHL	II	6.23	5094	81782826	60 mo	3973	0.813
+Non-Hispanic White	Female	NHL	III	7.37	6029	81782826	60 mo	4804	0.7647
+Non-Hispanic White	Female	NHL	IV	15.04	12298	81782826	60 mo	9641	0.7148
+Non-Hispanic White	Female	NHL	Unknown/missing	3.37	2757	81782826	60 mo	1930	0.8243
+Non-Hispanic White	Female	Prostate	I	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Prostate	II	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Prostate	III	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Prostate	IV	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Prostate	Unknown/missing	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Kidney and Renal Pelvis	I	17.8	14560	81782826	60 mo	10797	0.9615
+Non-Hispanic White	Female	Kidney and Renal Pelvis	II	2.13	1745	81782826	60 mo	1436	0.8618
+Non-Hispanic White	Female	Kidney and Renal Pelvis	III	3.79	3102	81782826	60 mo	2456	0.7343
+Non-Hispanic White	Female	Kidney and Renal Pelvis	IV	4.33	3538	81782826	60 mo	2898	0.1324
+Non-Hispanic White	Female	Kidney and Renal Pelvis	Unknown/missing	1.61	1319	81782826	60 mo	841	0.67
+Non-Hispanic White	Female	Oral cavity and pharynx	I	4.77	3900	81782826	60 mo	2664	0.9032
+Non-Hispanic White	Female	Oral cavity and pharynx	II	2.14	1751	81782826	60 mo	1238	0.8201
+Non-Hispanic White	Female	Oral cavity and pharynx	III	2.22	1819	81782826	60 mo	1372	0.7177
+Non-Hispanic White	Female	Oral cavity and pharynx	IV	5.7	4658	81782826	60 mo	3539	0.5637
+Non-Hispanic White	Female	Oral cavity and pharynx	Unknown/missing	3.42	2799	81782826	60 mo	1868	0.7389
+Non-Hispanic White	Female	Ovary	I	6.45	5278	81782826	60 mo	4276	0.9009
+Non-Hispanic White	Female	Ovary	II	2.73	2236	81782826	60 mo	1816	0.7276
+Non-Hispanic White	Female	Ovary	III	12.51	10228	81782826	60 mo	8423	0.4042
+Non-Hispanic White	Female	Ovary	IV	8.88	7264	81782826	60 mo	6190	0.2152
+Non-Hispanic White	Female	Ovary	Unknown/missing	3.24	2646	81782826	60 mo	1956	0.3411
+Non-Hispanic White	Female	Esophagus	I	0.85	697	81782826	60 mo	480	0.5293
+Non-Hispanic White	Female	Esophagus	II	0.97	794	81782826	60 mo	566	0.4357
+Non-Hispanic White	Female	Esophagus	III	0.99	813	81782826	60 mo	613	0.3084
+Non-Hispanic White	Female	Esophagus	IV	1.41	1152	81782826	60 mo	920	0.0729
+Non-Hispanic White	Female	Esophagus	Unknown/missing	0.85	693	81782826	60 mo	433	0.2166
+Non-Hispanic White	Female	Urinary Bladder	I	4.97	4068	81782826	60 mo	2855	0.8496
+Non-Hispanic White	Female	Urinary Bladder	II	2.64	2156	81782826	60 mo	1544	0.5773
+Non-Hispanic White	Female	Urinary Bladder	III	1.03	842	81782826	60 mo	646	0.4525
+Non-Hispanic White	Female	Urinary Bladder	IV	2.15	1756	81782826	60 mo	1348	0.1503
+Non-Hispanic White	Female	Urinary Bladder	Unknown/missing	0.97	796	81782826	60 mo	476	0.6188
+Non-Hispanic White	Female	Uterus	I	56.18	45944	81782826	60 mo	39783	0.9585
+Non-Hispanic White	Female	Uterus	II	5.31	4340	81782826	60 mo	3722	0.8745
+Non-Hispanic White	Female	Uterus	III	10.56	8638	81782826	60 mo	7345	0.7057
+Non-Hispanic White	Female	Uterus	IV	4.8	3927	81782826	60 mo	3327	0.2077
+Non-Hispanic White	Female	Uterus	Unknown/missing	7.47	6112	81782826	60 mo	4903	0.5575
+Non-Hispanic White	Female	Melanoma of the Skin	I	36.84	30128	81782826	60 mo	22614	0.9871
+Non-Hispanic White	Female	Melanoma of the Skin	II	4.86	3974	81782826	60 mo	3067	0.864
+Non-Hispanic White	Female	Melanoma of the Skin	III	2.63	2147	81782826	60 mo	1652	0.6894
+Non-Hispanic White	Female	Melanoma of the Skin	IV	1.54	1263	81782826	60 mo	925	0.2394
+Non-Hispanic White	Female	Melanoma of the Skin	Unknown/missing	4.55	3721	81782826	60 mo	2545	0.9191
+Non-Hispanic White	Female	Thyroid	I	20.3	16599	81782826	60 mo	13398	0.9984
+Non-Hispanic White	Female	Thyroid	II	3.82	3126	81782826	60 mo	2595	0.9931
+Non-Hispanic White	Female	Thyroid	III	5.78	4723	81782826	60 mo	3764	0.9913
+Non-Hispanic White	Female	Thyroid	IV	2.66	2179	81782826	60 mo	1686	0.751
+Non-Hispanic White	Female	Thyroid	Unknown/missing	1.86	1518	81782826	60 mo	1147	0.9669
+Non-Hispanic White	Female	Cervix	I	3.44	2811	81782826	60 mo	2412	0.9009
+Non-Hispanic White	Female	Cervix	II	1.5	1229	81782826	60 mo	1081	0.7218
+Non-Hispanic White	Female	Cervix	III	2.19	1791	81782826	60 mo	1583	0.5081
+Non-Hispanic White	Female	Cervix	IV	2.04	1669	81782826	60 mo	1487	0.1792
+Non-Hispanic White	Female	Cervix	Unknown/missing	0.92	756	81782826	60 mo	563	0.447
+Non-Hispanic White	Female	Myeloma	I	0	4	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Myeloma	II	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Myeloma	III	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Myeloma	IV	0	0	81782826	60 mo	0	NA
+Non-Hispanic White	Female	Myeloma	Unknown/missing	12.79	10460	81782826	60 mo	8412	0.5906
+Non-Hispanic White	Female	Stomach	I	1.82	1492	81782826	60 mo	1097	0.6547
+Non-Hispanic White	Female	Stomach	II	0.75	616	81782826	60 mo	496	0.4177
+Non-Hispanic White	Female	Stomach	III	0.7	569	81782826	60 mo	438	0.2225
+Non-Hispanic White	Female	Stomach	IV	3.02	2469	81782826	60 mo	1974	0.0479
+Non-Hispanic White	Female	Stomach	Unknown/missing	2.74	2243	81782826	60 mo	1609	0.7484
+Non-Hispanic White	Female	Other	I	12.22	9997	81782826	60 mo	7050	0.8344
+Non-Hispanic White	Female	Other	II	10.03	8201	81782826	60 mo	6142	0.7001
+Non-Hispanic White	Female	Other	III	9.63	7873	81782826	60 mo	5985	0.5575
+Non-Hispanic White	Female	Other	IV	9.6	7854	81782826	60 mo	6125	0.2257
+Non-Hispanic White	Female	Other	Unknown/missing	94.2	77037	81782826	60 mo	46584	0.4675
+Non-Hispanic Black	Male	Lung and Bronchus	I	37.46	4070	10865839	60 mo	2603	0.5592
+Non-Hispanic Black	Male	Lung and Bronchus	II	9.17	996	10865839	60 mo	773	0.3445
+Non-Hispanic Black	Male	Lung and Bronchus	III	59.4	6454	10865839	60 mo	5132	0.1588
+Non-Hispanic Black	Male	Lung and Bronchus	IV	115.21	12519	10865839	60 mo	10273	0.0375
+Non-Hispanic Black	Male	Lung and Bronchus	Unknown/missing	20.02	2175	10865839	60 mo	1301	0.1731
+Non-Hispanic Black	Male	Colon and Rectum	I	33	3586	10865839	60 mo	2717	0.8995
+Non-Hispanic Black	Male	Colon and Rectum	II	31.23	3393	10865839	60 mo	2700	0.7734
+Non-Hispanic Black	Male	Colon and Rectum	III	33.9	3683	10865839	60 mo	3036	0.6272
+Non-Hispanic Black	Male	Colon and Rectum	IV	35.69	3878	10865839	60 mo	3224	0.0798
+Non-Hispanic Black	Male	Colon and Rectum	Unknown/missing	18.22	1980	10865839	60 mo	1453	0.7481
+Non-Hispanic Black	Male	Pancreas	I	2.78	302	10865839	60 mo	243	0.3131
+Non-Hispanic Black	Male	Pancreas	II	8.68	943	10865839	60 mo	764	0.1564
+Non-Hispanic Black	Male	Pancreas	III	3.75	408	10865839	60 mo	338	0.053
+Non-Hispanic Black	Male	Pancreas	IV	24.92	2708	10865839	60 mo	2226	0.0146
+Non-Hispanic Black	Male	Pancreas	Unknown/missing	6.37	692	10865839	60 mo	425	0.2196
+Non-Hispanic Black	Male	Liver	I	15.66	1702	10865839	60 mo	1474	0.3419
+Non-Hispanic Black	Male	Liver	II	8.46	919	10865839	60 mo	797	0.3085
+Non-Hispanic Black	Male	Liver	III	13.14	1428	10865839	60 mo	1242	0.0668
+Non-Hispanic Black	Male	Liver	IV	9.76	1061	10865839	60 mo	952	0.0187
+Non-Hispanic Black	Male	Liver	Unknown/missing	10.88	1182	10865839	60 mo	853	0.1049
+Non-Hispanic Black	Male	Breast	I	1.18	128	10865839	60 mo	97	0.9646
+Non-Hispanic Black	Male	Breast	II	1.64	178	10865839	60 mo	143	0.8591
+Non-Hispanic Black	Male	Breast	III	0.79	86	10865839	60 mo	66	0.665
+Non-Hispanic Black	Male	Breast	IV	0.6	65	10865839	60 mo	52	0.2304
+Non-Hispanic Black	Male	Breast	Unknown/missing	0.28	30	10865839	60 mo	19	0.4934
+Non-Hispanic Black	Male	NHL	I	9.23	1003	10865839	60 mo	794	0.7769
+Non-Hispanic Black	Male	NHL	II	5.22	567	10865839	60 mo	461	0.7129
+Non-Hispanic Black	Male	NHL	III	7.4	804	10865839	60 mo	664	0.5933
+Non-Hispanic Black	Male	NHL	IV	15.19	1651	10865839	60 mo	1304	0.5583
+Non-Hispanic Black	Male	NHL	Unknown/missing	3.34	363	10865839	60 mo	226	0.6814
+Non-Hispanic Black	Male	Prostate	I	1.29	140	10865839	60 mo	124	0.9747
+Non-Hispanic Black	Male	Prostate	II	542.64	58962	10865839	60 mo	55097	0.9776
+Non-Hispanic Black	Male	Prostate	III	39.7	4314	10865839	60 mo	4117	0.9712
+Non-Hispanic Black	Male	Prostate	IV	51.95	5645	10865839	60 mo	5246	0.5001
+Non-Hispanic Black	Male	Prostate	Unknown/missing	39.28	4268	10865839	60 mo	3597	0.8758
+Non-Hispanic Black	Male	Kidney and Renal Pelvis	I	43.61	4739	10865839	60 mo	3183	0.9465
+Non-Hispanic Black	Male	Kidney and Renal Pelvis	II	6.02	654	10865839	60 mo	482	0.8708
+Non-Hispanic Black	Male	Kidney and Renal Pelvis	III	6.92	752	10865839	60 mo	561	0.667
+Non-Hispanic Black	Male	Kidney and Renal Pelvis	IV	9.98	1084	10865839	60 mo	884	0.1025
+Non-Hispanic Black	Male	Kidney and Renal Pelvis	Unknown/missing	4.79	521	10865839	60 mo	286	0.7173
+Non-Hispanic Black	Male	Oral cavity and pharynx	I	3.52	383	10865839	60 mo	229	0.7693
+Non-Hispanic Black	Male	Oral cavity and pharynx	II	4.1	446	10865839	60 mo	311	0.7306
+Non-Hispanic Black	Male	Oral cavity and pharynx	III	5.81	631	10865839	60 mo	501	0.5718
+Non-Hispanic Black	Male	Oral cavity and pharynx	IV	25.69	2791	10865839	60 mo	2339	0.3984
+Non-Hispanic Black	Male	Oral cavity and pharynx	Unknown/missing	6.3	685	10865839	60 mo	451	0.4345
+Non-Hispanic Black	Male	Ovary	I	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Ovary	II	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Ovary	III	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Ovary	IV	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Ovary	Unknown/missing	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Esophagus	I	3.17	344	10865839	60 mo	231	0.321
+Non-Hispanic Black	Male	Esophagus	II	3.56	387	10865839	60 mo	284	0.2642
+Non-Hispanic Black	Male	Esophagus	III	4.38	476	10865839	60 mo	384	0.1384
+Non-Hispanic Black	Male	Esophagus	IV	7.44	808	10865839	60 mo	656	0.0226
+Non-Hispanic Black	Male	Esophagus	Unknown/missing	3.76	409	10865839	60 mo	265	0.1498
+Non-Hispanic Black	Male	Urinary Bladder	I	11.12	1208	10865839	60 mo	812	0.7931
+Non-Hispanic Black	Male	Urinary Bladder	II	5.4	587	10865839	60 mo	410	0.5109
+Non-Hispanic Black	Male	Urinary Bladder	III	2.2	239	10865839	60 mo	170	0.3829
+Non-Hispanic Black	Male	Urinary Bladder	IV	4.79	520	10865839	60 mo	395	0.1302
+Non-Hispanic Black	Male	Urinary Bladder	Unknown/missing	2.49	271	10865839	60 mo	159	0.5637
+Non-Hispanic Black	Male	Uterus	I	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Uterus	II	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Uterus	III	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Uterus	IV	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Uterus	Unknown/missing	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Melanoma of the Skin	I	0.79	86	10865839	60 mo	60	0.8691
+Non-Hispanic Black	Male	Melanoma of the Skin	II	0.47	51	10865839	60 mo	32	0.7429
+Non-Hispanic Black	Male	Melanoma of the Skin	III	0.53	58	10865839	60 mo	47	0.3158
+Non-Hispanic Black	Male	Melanoma of the Skin	IV	0.46	50	10865839	60 mo	35	0.2218
+Non-Hispanic Black	Male	Melanoma of the Skin	Unknown/missing	0.44	48	10865839	60 mo	30	0.6833
+Non-Hispanic Black	Male	Thyroid	I	3.39	368	10865839	60 mo	272	0.9893
+Non-Hispanic Black	Male	Thyroid	II	1.21	131	10865839	60 mo	97	1
+Non-Hispanic Black	Male	Thyroid	III	1.67	182	10865839	60 mo	143	0.9737
+Non-Hispanic Black	Male	Thyroid	IV	1.42	154	10865839	60 mo	117	0.6648
+Non-Hispanic Black	Male	Thyroid	Unknown/missing	0.75	82	10865839	60 mo	53	0.9211
+Non-Hispanic Black	Male	Cervix	I	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Cervix	II	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Cervix	III	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Cervix	IV	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Cervix	Unknown/missing	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Myeloma	I	0	1	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Myeloma	II	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Myeloma	III	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Myeloma	IV	0	0	10865839	60 mo	0	NA
+Non-Hispanic Black	Male	Myeloma	Unknown/missing	41.31	4489	10865839	60 mo	3548	0.5976
+Non-Hispanic Black	Male	Stomach	I	7.19	781	10865839	60 mo	574	0.566
+Non-Hispanic Black	Male	Stomach	II	3.56	387	10865839	60 mo	300	0.4471
+Non-Hispanic Black	Male	Stomach	III	3.16	343	10865839	60 mo	286	0.2176
+Non-Hispanic Black	Male	Stomach	IV	13.38	1454	10865839	60 mo	1201	0.0442
+Non-Hispanic Black	Male	Stomach	Unknown/missing	8.19	890	10865839	60 mo	612	0.508
+Non-Hispanic Black	Male	Other	I	16.11	1750	10865839	60 mo	1341	0.7879
+Non-Hispanic Black	Male	Other	II	10.79	1172	10865839	60 mo	896	0.6029
+Non-Hispanic Black	Male	Other	III	12.46	1354	10865839	60 mo	1070	0.5204
+Non-Hispanic Black	Male	Other	IV	20.34	2210	10865839	60 mo	1816	0.2616
+Non-Hispanic Black	Male	Other	Unknown/missing	106.03	11521	10865839	60 mo	7072	0.4472
+Non-Hispanic Black	Female	Lung and Bronchus	I	28.51	3783	13268633	60 mo	2622	0.6717
+Non-Hispanic Black	Female	Lung and Bronchus	II	5.87	779	13268633	60 mo	590	0.4375
+Non-Hispanic Black	Female	Lung and Bronchus	III	35.88	4761	13268633	60 mo	3833	0.2251
+Non-Hispanic Black	Female	Lung and Bronchus	IV	64.8	8598	13268633	60 mo	7100	0.0609
+Non-Hispanic Black	Female	Lung and Bronchus	Unknown/missing	11.27	1496	13268633	60 mo	972	0.2868
+Non-Hispanic Black	Female	Colon and Rectum	I	24.1	3198	13268633	60 mo	2559	0.9262
+Non-Hispanic Black	Female	Colon and Rectum	II	23.36	3099	13268633	60 mo	2564	0.8142
+Non-Hispanic Black	Female	Colon and Rectum	III	26.54	3522	13268633	60 mo	2956	0.6777
+Non-Hispanic Black	Female	Colon and Rectum	IV	25.73	3414	13268633	60 mo	2922	0.1112
+Non-Hispanic Black	Female	Colon and Rectum	Unknown/missing	15.59	2068	13268633	60 mo	1585	0.8067
+Non-Hispanic Black	Female	Pancreas	I	2.55	339	13268633	60 mo	266	0.3143
+Non-Hispanic Black	Female	Pancreas	II	7.97	1057	13268633	60 mo	868	0.129
+Non-Hispanic Black	Female	Pancreas	III	3.29	437	13268633	60 mo	366	0.0484
+Non-Hispanic Black	Female	Pancreas	IV	18.08	2399	13268633	60 mo	2049	0.0207
+Non-Hispanic Black	Female	Pancreas	Unknown/missing	4.64	616	13268633	60 mo	431	0.2789
+Non-Hispanic Black	Female	Liver	I	4.51	598	13268633	60 mo	495	0.4074
+Non-Hispanic Black	Female	Liver	II	2.01	267	13268633	60 mo	235	0.3549
+Non-Hispanic Black	Female	Liver	III	2.37	315	13268633	60 mo	275	0.0987
+Non-Hispanic Black	Female	Liver	IV	1.88	249	13268633	60 mo	205	0.0365
+Non-Hispanic Black	Female	Liver	Unknown/missing	2.59	344	13268633	60 mo	251	0.1599
+Non-Hispanic Black	Female	Breast	I	128.43	17041	13268633	60 mo	13411	0.9683
+Non-Hispanic Black	Female	Breast	II	112.1	14874	13268633	60 mo	12291	0.8836
+Non-Hispanic Black	Female	Breast	III	42.59	5651	13268633	60 mo	4744	0.66
+Non-Hispanic Black	Female	Breast	IV	27.18	3606	13268633	60 mo	2912	0.1838
+Non-Hispanic Black	Female	Breast	Unknown/missing	15.66	2078	13268633	60 mo	1423	0.6669
+Non-Hispanic Black	Female	NHL	I	8.43	1119	13268633	60 mo	907	0.8743
+Non-Hispanic Black	Female	NHL	II	3.96	526	13268633	60 mo	429	0.7509
+Non-Hispanic Black	Female	NHL	III	4.78	634	13268633	60 mo	522	0.6827
+Non-Hispanic Black	Female	NHL	IV	9.85	1307	13268633	60 mo	1067	0.6233
+Non-Hispanic Black	Female	NHL	Unknown/missing	2.12	281	13268633	60 mo	219	0.7363
+Non-Hispanic Black	Female	Prostate	I	0	0	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Prostate	II	0	0	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Prostate	III	0	0	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Prostate	IV	0	0	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Prostate	Unknown/missing	0	0	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Kidney and Renal Pelvis	I	22.53	2989	13268633	60 mo	2214	0.9511
+Non-Hispanic Black	Female	Kidney and Renal Pelvis	II	3.05	405	13268633	60 mo	349	0.8846
+Non-Hispanic Black	Female	Kidney and Renal Pelvis	III	2.91	386	13268633	60 mo	306	0.7065
+Non-Hispanic Black	Female	Kidney and Renal Pelvis	IV	3.79	503	13268633	60 mo	412	0.1345
+Non-Hispanic Black	Female	Kidney and Renal Pelvis	Unknown/missing	2.32	308	13268633	60 mo	190	0.6902
+Non-Hispanic Black	Female	Oral cavity and pharynx	I	2.21	293	13268633	60 mo	188	0.916
+Non-Hispanic Black	Female	Oral cavity and pharynx	II	2	266	13268633	60 mo	203	0.8105
+Non-Hispanic Black	Female	Oral cavity and pharynx	III	1.76	234	13268633	60 mo	172	0.6121
+Non-Hispanic Black	Female	Oral cavity and pharynx	IV	6.13	814	13268633	60 mo	669	0.3765
+Non-Hispanic Black	Female	Oral cavity and pharynx	Unknown/missing	2.31	306	13268633	60 mo	212	0.5067
+Non-Hispanic Black	Female	Ovary	I	3.42	454	13268633	60 mo	377	0.8284
+Non-Hispanic Black	Female	Ovary	II	1.53	203	13268633	60 mo	161	0.5383
+Non-Hispanic Black	Female	Ovary	III	7.68	1019	13268633	60 mo	854	0.3484
+Non-Hispanic Black	Female	Ovary	IV	8.77	1164	13268633	60 mo	994	0.1309
+Non-Hispanic Black	Female	Ovary	Unknown/missing	3.04	403	13268633	60 mo	298	0.2941
+Non-Hispanic Black	Female	Esophagus	I	1.13	150	13268633	60 mo	115	0.3341
+Non-Hispanic Black	Female	Esophagus	II	1.41	187	13268633	60 mo	156	0.3101
+Non-Hispanic Black	Female	Esophagus	III	1.51	200	13268633	60 mo	162	0.1761
+Non-Hispanic Black	Female	Esophagus	IV	1.96	260	13268633	60 mo	223	0.0909
+Non-Hispanic Black	Female	Esophagus	Unknown/missing	1.23	163	13268633	60 mo	118	0.1931
+Non-Hispanic Black	Female	Urinary Bladder	I	3.47	461	13268633	60 mo	318	0.7276
+Non-Hispanic Black	Female	Urinary Bladder	II	2.45	325	13268633	60 mo	247	0.4398
+Non-Hispanic Black	Female	Urinary Bladder	III	1.27	168	13268633	60 mo	128	0.4194
+Non-Hispanic Black	Female	Urinary Bladder	IV	2.37	314	13268633	60 mo	259	0.1058
+Non-Hispanic Black	Female	Urinary Bladder	Unknown/missing	0.96	128	13268633	60 mo	82	0.4985
+Non-Hispanic Black	Female	Uterus	I	36.14	4795	13268633	60 mo	4219	0.8958
+Non-Hispanic Black	Female	Uterus	II	5.49	728	13268633	60 mo	646	0.7283
+Non-Hispanic Black	Female	Uterus	III	10.47	1389	13268633	60 mo	1193	0.4642
+Non-Hispanic Black	Female	Uterus	IV	8.7	1154	13268633	60 mo	996	0.0948
+Non-Hispanic Black	Female	Uterus	Unknown/missing	15.37	2040	13268633	60 mo	1714	0.369
+Non-Hispanic Black	Female	Melanoma of the Skin	I	0.75	100	13268633	60 mo	72	0.9538
+Non-Hispanic Black	Female	Melanoma of the Skin	II	0.51	68	13268633	60 mo	53	0.6493
+Non-Hispanic Black	Female	Melanoma of the Skin	III	0.33	44	13268633	60 mo	39	0.4969
+Non-Hispanic Black	Female	Melanoma of the Skin	IV	0.24	32	13268633	60 mo	25	0.292
+Non-Hispanic Black	Female	Melanoma of the Skin	Unknown/missing	0.33	44	13268633	60 mo	24	0.8696
+Non-Hispanic Black	Female	Thyroid	I	13.43	1782	13268633	60 mo	1476	0.9958
+Non-Hispanic Black	Female	Thyroid	II	3.42	454	13268633	60 mo	389	0.9926
+Non-Hispanic Black	Female	Thyroid	III	3.86	512	13268633	60 mo	430	0.9775
+Non-Hispanic Black	Female	Thyroid	IV	2.25	298	13268633	60 mo	234	0.5811
+Non-Hispanic Black	Female	Thyroid	Unknown/missing	1.58	210	13268633	60 mo	162	0.98
+Non-Hispanic Black	Female	Cervix	I	5.13	681	13268633	60 mo	583	0.8949
+Non-Hispanic Black	Female	Cervix	II	2.66	353	13268633	60 mo	314	0.6989
+Non-Hispanic Black	Female	Cervix	III	3.87	513	13268633	60 mo	461	0.4275
+Non-Hispanic Black	Female	Cervix	IV	3.72	494	13268633	60 mo	430	0.1576
+Non-Hispanic Black	Female	Cervix	Unknown/missing	1.89	251	13268633	60 mo	188	0.4707
+Non-Hispanic Black	Female	Myeloma	I	0	1	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Myeloma	II	0	0	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Myeloma	III	0	0	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Myeloma	IV	0	1	13268633	60 mo	0	NA
+Non-Hispanic Black	Female	Myeloma	Unknown/missing	31.47	4175	13268633	60 mo	3514	0.613
+Non-Hispanic Black	Female	Stomach	I	3.85	511	13268633	60 mo	393	0.723
+Non-Hispanic Black	Female	Stomach	II	1.48	196	13268633	60 mo	166	0.3663
+Non-Hispanic Black	Female	Stomach	III	1.64	218	13268633	60 mo	181	0.2515
+Non-Hispanic Black	Female	Stomach	IV	5.83	774	13268633	60 mo	639	0.0581
+Non-Hispanic Black	Female	Stomach	Unknown/missing	5.96	791	13268633	60 mo	582	0.7083
+Non-Hispanic Black	Female	Other	I	9.3	1234	13268633	60 mo	911	0.7527
+Non-Hispanic Black	Female	Other	II	8.21	1089	13268633	60 mo	854	0.6061
+Non-Hispanic Black	Female	Other	III	9.13	1211	13268633	60 mo	985	0.5405
+Non-Hispanic Black	Female	Other	IV	12.17	1615	13268633	60 mo	1346	0.2154
+Non-Hispanic Black	Female	Other	Unknown/missing	81.75	10847	13268633	60 mo	6792	0.4419
+Non-Hispanic Asian or Pacific Islander	Male	Lung and Bronchus	I	20.27	2037	10048539	60 mo	1475	0.6822
+Non-Hispanic Asian or Pacific Islander	Male	Lung and Bronchus	II	4.7	472	10048539	60 mo	387	0.3964
+Non-Hispanic Asian or Pacific Islander	Male	Lung and Bronchus	III	27.45	2758	10048539	60 mo	2310	0.196
+Non-Hispanic Asian or Pacific Islander	Male	Lung and Bronchus	IV	57.15	5743	10048539	60 mo	4982	0.0682
+Non-Hispanic Asian or Pacific Islander	Male	Lung and Bronchus	Unknown/missing	10.05	1010	10048539	60 mo	709	0.1981
+Non-Hispanic Asian or Pacific Islander	Male	Colon and Rectum	I	24.29	2441	10048539	60 mo	2089	0.9452
+Non-Hispanic Asian or Pacific Islander	Male	Colon and Rectum	II	21.69	2180	10048539	60 mo	1923	0.8481
+Non-Hispanic Asian or Pacific Islander	Male	Colon and Rectum	III	27.16	2729	10048539	60 mo	2448	0.7449
+Non-Hispanic Asian or Pacific Islander	Male	Colon and Rectum	IV	19.91	2001	10048539	60 mo	1745	0.1453
+Non-Hispanic Asian or Pacific Islander	Male	Colon and Rectum	Unknown/missing	13.69	1376	10048539	60 mo	1100	0.7929
+Non-Hispanic Asian or Pacific Islander	Male	Pancreas	I	1.64	165	10048539	60 mo	132	0.5422
+Non-Hispanic Asian or Pacific Islander	Male	Pancreas	II	5.65	568	10048539	60 mo	493	0.1654
+Non-Hispanic Asian or Pacific Islander	Male	Pancreas	III	2.22	223	10048539	60 mo	195	0.0352
+Non-Hispanic Asian or Pacific Islander	Male	Pancreas	IV	12.73	1279	10048539	60 mo	1097	0.0204
+Non-Hispanic Asian or Pacific Islander	Male	Pancreas	Unknown/missing	3.32	334	10048539	60 mo	245	0.3098
+Non-Hispanic Asian or Pacific Islander	Male	Liver	I	18.37	1846	10048539	60 mo	1605	0.5685
+Non-Hispanic Asian or Pacific Islander	Male	Liver	II	9.51	956	10048539	60 mo	848	0.477
+Non-Hispanic Asian or Pacific Islander	Male	Liver	III	12.04	1210	10048539	60 mo	1085	0.1085
+Non-Hispanic Asian or Pacific Islander	Male	Liver	IV	8.03	807	10048539	60 mo	718	0.0206
+Non-Hispanic Asian or Pacific Islander	Male	Liver	Unknown/missing	9.7	975	10048539	60 mo	785	0.1396
+Non-Hispanic Asian or Pacific Islander	Male	Breast	I	0.54	54	10048539	60 mo	46	1
+Non-Hispanic Asian or Pacific Islander	Male	Breast	II	0.56	56	10048539	60 mo	46	0.8604
+Non-Hispanic Asian or Pacific Islander	Male	Breast	III	0.28	28	10048539	60 mo	23	0.7778
+Non-Hispanic Asian or Pacific Islander	Male	Breast	IV	0.16	16	10048539	60 mo	14	0.1984
+Non-Hispanic Asian or Pacific Islander	Male	Breast	Unknown/missing	0.05	5	10048539	60 mo	3	1
+Non-Hispanic Asian or Pacific Islander	Male	NHL	I	10.65	1070	10048539	60 mo	904	0.8068
+Non-Hispanic Asian or Pacific Islander	Male	NHL	II	5.76	579	10048539	60 mo	500	0.7482
+Non-Hispanic Asian or Pacific Islander	Male	NHL	III	5.68	571	10048539	60 mo	478	0.6385
+Non-Hispanic Asian or Pacific Islander	Male	NHL	IV	13.39	1346	10048539	60 mo	1139	0.5875
+Non-Hispanic Asian or Pacific Islander	Male	NHL	Unknown/missing	3.49	351	10048539	60 mo	272	0.726
+Non-Hispanic Asian or Pacific Islander	Male	Prostate	I	0.61	61	10048539	60 mo	54	0.9808
+Non-Hispanic Asian or Pacific Islander	Male	Prostate	II	167.38	16819	10048539	60 mo	15657	0.9883
+Non-Hispanic Asian or Pacific Islander	Male	Prostate	III	20.51	2061	10048539	60 mo	1965	0.9849
+Non-Hispanic Asian or Pacific Islander	Male	Prostate	IV	16.98	1706	10048539	60 mo	1580	0.6175
+Non-Hispanic Asian or Pacific Islander	Male	Prostate	Unknown/missing	17.6	1769	10048539	60 mo	1562	0.921
+Non-Hispanic Asian or Pacific Islander	Male	Kidney and Renal Pelvis	I	17.11	1719	10048539	60 mo	1344	0.9572
+Non-Hispanic Asian or Pacific Islander	Male	Kidney and Renal Pelvis	II	2.31	232	10048539	60 mo	210	0.8825
+Non-Hispanic Asian or Pacific Islander	Male	Kidney and Renal Pelvis	III	4.94	496	10048539	60 mo	433	0.7464
+Non-Hispanic Asian or Pacific Islander	Male	Kidney and Renal Pelvis	IV	6.06	609	10048539	60 mo	533	0.1639
+Non-Hispanic Asian or Pacific Islander	Male	Kidney and Renal Pelvis	Unknown/missing	1.83	184	10048539	60 mo	118	0.6856
+Non-Hispanic Asian or Pacific Islander	Male	Oral cavity and pharynx	I	4.29	431	10048539	60 mo	325	0.8877
+Non-Hispanic Asian or Pacific Islander	Male	Oral cavity and pharynx	II	3.95	397	10048539	60 mo	325	0.8101
+Non-Hispanic Asian or Pacific Islander	Male	Oral cavity and pharynx	III	4.65	467	10048539	60 mo	392	0.7213
+Non-Hispanic Asian or Pacific Islander	Male	Oral cavity and pharynx	IV	11.84	1190	10048539	60 mo	1007	0.5409
+Non-Hispanic Asian or Pacific Islander	Male	Oral cavity and pharynx	Unknown/missing	3.95	397	10048539	60 mo	287	0.5842
+Non-Hispanic Asian or Pacific Islander	Male	Ovary	I	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Ovary	II	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Ovary	III	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Ovary	IV	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Ovary	Unknown/missing	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Esophagus	I	1.12	113	10048539	60 mo	85	0.3796
+Non-Hispanic Asian or Pacific Islander	Male	Esophagus	II	1.77	178	10048539	60 mo	148	0.3279
+Non-Hispanic Asian or Pacific Islander	Male	Esophagus	III	2.11	212	10048539	60 mo	178	0.1718
+Non-Hispanic Asian or Pacific Islander	Male	Esophagus	IV	3.25	327	10048539	60 mo	281	0.0332
+Non-Hispanic Asian or Pacific Islander	Male	Esophagus	Unknown/missing	1.66	167	10048539	60 mo	123	0.1401
+Non-Hispanic Asian or Pacific Islander	Male	Urinary Bladder	I	8.62	866	10048539	60 mo	680	0.8959
+Non-Hispanic Asian or Pacific Islander	Male	Urinary Bladder	II	3.44	346	10048539	60 mo	275	0.6976
+Non-Hispanic Asian or Pacific Islander	Male	Urinary Bladder	III	1.69	170	10048539	60 mo	140	0.534
+Non-Hispanic Asian or Pacific Islander	Male	Urinary Bladder	IV	2.47	248	10048539	60 mo	197	0.2242
+Non-Hispanic Asian or Pacific Islander	Male	Urinary Bladder	Unknown/missing	1.57	158	10048539	60 mo	112	0.6828
+Non-Hispanic Asian or Pacific Islander	Male	Uterus	I	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Uterus	II	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Uterus	III	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Uterus	IV	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Uterus	Unknown/missing	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Melanoma of the Skin	I	1.53	154	10048539	60 mo	120	0.9765
+Non-Hispanic Asian or Pacific Islander	Male	Melanoma of the Skin	II	0.71	71	10048539	60 mo	60	0.7198
+Non-Hispanic Asian or Pacific Islander	Male	Melanoma of the Skin	III	0.72	72	10048539	60 mo	57	0.3858
+Non-Hispanic Asian or Pacific Islander	Male	Melanoma of the Skin	IV	0.36	36	10048539	60 mo	27	0.1336
+Non-Hispanic Asian or Pacific Islander	Male	Melanoma of the Skin	Unknown/missing	0.45	45	10048539	60 mo	31	0.8293
+Non-Hispanic Asian or Pacific Islander	Male	Thyroid	I	4.45	447	10048539	60 mo	370	1
+Non-Hispanic Asian or Pacific Islander	Male	Thyroid	II	1.13	114	10048539	60 mo	92	0.989
+Non-Hispanic Asian or Pacific Islander	Male	Thyroid	III	3.27	329	10048539	60 mo	282	0.9735
+Non-Hispanic Asian or Pacific Islander	Male	Thyroid	IV	3.36	338	10048539	60 mo	288	0.7505
+Non-Hispanic Asian or Pacific Islander	Male	Thyroid	Unknown/missing	1.03	103	10048539	60 mo	81	0.9447
+Non-Hispanic Asian or Pacific Islander	Male	Cervix	I	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Cervix	II	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Cervix	III	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Cervix	IV	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Cervix	Unknown/missing	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Myeloma	I	0	1	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Myeloma	II	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Myeloma	III	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Myeloma	IV	0	0	10048539	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Male	Myeloma	Unknown/missing	12.66	1272	10048539	60 mo	1092	0.584
+Non-Hispanic Asian or Pacific Islander	Male	Stomach	I	8.8	884	10048539	60 mo	752	0.7798
+Non-Hispanic Asian or Pacific Islander	Male	Stomach	II	3.97	399	10048539	60 mo	339	0.5537
+Non-Hispanic Asian or Pacific Islander	Male	Stomach	III	3.93	395	10048539	60 mo	354	0.3753
+Non-Hispanic Asian or Pacific Islander	Male	Stomach	IV	11.16	1121	10048539	60 mo	977	0.0749
+Non-Hispanic Asian or Pacific Islander	Male	Stomach	Unknown/missing	5.72	575	10048539	60 mo	444	0.5472
+Non-Hispanic Asian or Pacific Islander	Male	Other	I	10.22	1027	10048539	60 mo	845	0.7723
+Non-Hispanic Asian or Pacific Islander	Male	Other	II	6.94	697	10048539	60 mo	587	0.5351
+Non-Hispanic Asian or Pacific Islander	Male	Other	III	6.03	606	10048539	60 mo	518	0.4504
+Non-Hispanic Asian or Pacific Islander	Male	Other	IV	9.71	976	10048539	60 mo	815	0.1837
+Non-Hispanic Asian or Pacific Islander	Male	Other	Unknown/missing	68.95	6928	10048539	60 mo	4296	0.4252
+Non-Hispanic Asian or Pacific Islander	Female	Lung and Bronchus	I	16.38	1978	12076850	60 mo	1390	0.8059
+Non-Hispanic Asian or Pacific Islander	Female	Lung and Bronchus	II	2.67	323	12076850	60 mo	246	0.5192
+Non-Hispanic Asian or Pacific Islander	Female	Lung and Bronchus	III	15.25	1842	12076850	60 mo	1496	0.273
+Non-Hispanic Asian or Pacific Islander	Female	Lung and Bronchus	IV	33.8	4082	12076850	60 mo	3483	0.1016
+Non-Hispanic Asian or Pacific Islander	Female	Lung and Bronchus	Unknown/missing	6.38	770	12076850	60 mo	537	0.2998
+Non-Hispanic Asian or Pacific Islander	Female	Colon and Rectum	I	16.82	2031	12076850	60 mo	1679	0.9477
+Non-Hispanic Asian or Pacific Islander	Female	Colon and Rectum	II	14.78	1785	12076850	60 mo	1511	0.8727
+Non-Hispanic Asian or Pacific Islander	Female	Colon and Rectum	III	20.28	2449	12076850	60 mo	2140	0.751
+Non-Hispanic Asian or Pacific Islander	Female	Colon and Rectum	IV	12.63	1525	12076850	60 mo	1308	0.1664
+Non-Hispanic Asian or Pacific Islander	Female	Colon and Rectum	Unknown/missing	8.82	1065	12076850	60 mo	841	0.8075
+Non-Hispanic Asian or Pacific Islander	Female	Pancreas	I	1.49	180	12076850	60 mo	145	0.4679
+Non-Hispanic Asian or Pacific Islander	Female	Pancreas	II	5.48	662	12076850	60 mo	543	0.1554
+Non-Hispanic Asian or Pacific Islander	Female	Pancreas	III	2.14	259	12076850	60 mo	218	0.0446
+Non-Hispanic Asian or Pacific Islander	Female	Pancreas	IV	9.97	1204	12076850	60 mo	1001	0.0216
+Non-Hispanic Asian or Pacific Islander	Female	Pancreas	Unknown/missing	2.67	323	12076850	60 mo	237	0.2668
+Non-Hispanic Asian or Pacific Islander	Female	Liver	I	7.01	846	12076850	60 mo	718	0.5527
+Non-Hispanic Asian or Pacific Islander	Female	Liver	II	2.82	340	12076850	60 mo	280	0.4484
+Non-Hispanic Asian or Pacific Islander	Female	Liver	III	2.91	352	12076850	60 mo	303	0.1501
+Non-Hispanic Asian or Pacific Islander	Female	Liver	IV	1.77	214	12076850	60 mo	189	0.056
+Non-Hispanic Asian or Pacific Islander	Female	Liver	Unknown/missing	3.18	384	12076850	60 mo	287	0.1761
+Non-Hispanic Asian or Pacific Islander	Female	Breast	I	122.02	14736	12076850	60 mo	12015	0.9896
+Non-Hispanic Asian or Pacific Islander	Female	Breast	II	83.79	10119	12076850	60 mo	8675	0.9504
+Non-Hispanic Asian or Pacific Islander	Female	Breast	III	23.51	2839	12076850	60 mo	2460	0.7952
+Non-Hispanic Asian or Pacific Islander	Female	Breast	IV	11.93	1441	12076850	60 mo	1156	0.3421
+Non-Hispanic Asian or Pacific Islander	Female	Breast	Unknown/missing	11.84	1430	12076850	60 mo	1048	0.7786
+Non-Hispanic Asian or Pacific Islander	Female	NHL	I	7.5	906	12076850	60 mo	743	0.8247
+Non-Hispanic Asian or Pacific Islander	Female	NHL	II	4.12	497	12076850	60 mo	427	0.7716
+Non-Hispanic Asian or Pacific Islander	Female	NHL	III	3.98	481	12076850	60 mo	407	0.687
+Non-Hispanic Asian or Pacific Islander	Female	NHL	IV	8.36	1010	12076850	60 mo	835	0.586
+Non-Hispanic Asian or Pacific Islander	Female	NHL	Unknown/missing	2.24	270	12076850	60 mo	209	0.77
+Non-Hispanic Asian or Pacific Islander	Female	Prostate	I	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Prostate	II	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Prostate	III	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Prostate	IV	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Prostate	Unknown/missing	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Kidney and Renal Pelvis	I	8.26	998	12076850	60 mo	776	0.9547
+Non-Hispanic Asian or Pacific Islander	Female	Kidney and Renal Pelvis	II	1.14	138	12076850	60 mo	116	0.8577
+Non-Hispanic Asian or Pacific Islander	Female	Kidney and Renal Pelvis	III	1.77	214	12076850	60 mo	174	0.6739
+Non-Hispanic Asian or Pacific Islander	Female	Kidney and Renal Pelvis	IV	2.56	309	12076850	60 mo	257	0.1424
+Non-Hispanic Asian or Pacific Islander	Female	Kidney and Renal Pelvis	Unknown/missing	0.84	101	12076850	60 mo	59	0.693
+Non-Hispanic Asian or Pacific Islander	Female	Oral cavity and pharynx	I	2.93	354	12076850	60 mo	264	0.9188
+Non-Hispanic Asian or Pacific Islander	Female	Oral cavity and pharynx	II	1.91	231	12076850	60 mo	174	0.8735
+Non-Hispanic Asian or Pacific Islander	Female	Oral cavity and pharynx	III	1.9	229	12076850	60 mo	186	0.7212
+Non-Hispanic Asian or Pacific Islander	Female	Oral cavity and pharynx	IV	3.35	405	12076850	60 mo	324	0.5119
+Non-Hispanic Asian or Pacific Islander	Female	Oral cavity and pharynx	Unknown/missing	1.8	217	12076850	60 mo	141	0.7247
+Non-Hispanic Asian or Pacific Islander	Female	Ovary	I	5.47	661	12076850	60 mo	586	0.8956
+Non-Hispanic Asian or Pacific Islander	Female	Ovary	II	2.14	259	12076850	60 mo	221	0.7736
+Non-Hispanic Asian or Pacific Islander	Female	Ovary	III	7.23	873	12076850	60 mo	741	0.4349
+Non-Hispanic Asian or Pacific Islander	Female	Ovary	IV	5.53	668	12076850	60 mo	565	0.2623
+Non-Hispanic Asian or Pacific Islander	Female	Ovary	Unknown/missing	2.4	290	12076850	60 mo	234	0.4487
+Non-Hispanic Asian or Pacific Islander	Female	Esophagus	I	0.29	35	12076850	60 mo	26	0.4056
+Non-Hispanic Asian or Pacific Islander	Female	Esophagus	II	0.51	62	12076850	60 mo	44	0.4863
+Non-Hispanic Asian or Pacific Islander	Female	Esophagus	III	0.51	62	12076850	60 mo	50	0.3541
+Non-Hispanic Asian or Pacific Islander	Female	Esophagus	IV	0.62	75	12076850	60 mo	59	0.0879
+Non-Hispanic Asian or Pacific Islander	Female	Esophagus	Unknown/missing	0.5	60	12076850	60 mo	42	0.352
+Non-Hispanic Asian or Pacific Islander	Female	Urinary Bladder	I	1.9	229	12076850	60 mo	167	0.8491
+Non-Hispanic Asian or Pacific Islander	Female	Urinary Bladder	II	0.94	114	12076850	60 mo	87	0.7072
+Non-Hispanic Asian or Pacific Islander	Female	Urinary Bladder	III	0.46	55	12076850	60 mo	37	0.547
+Non-Hispanic Asian or Pacific Islander	Female	Urinary Bladder	IV	0.7	85	12076850	60 mo	63	0.1679
+Non-Hispanic Asian or Pacific Islander	Female	Urinary Bladder	Unknown/missing	0.41	50	12076850	60 mo	29	0.5963
+Non-Hispanic Asian or Pacific Islander	Female	Uterus	I	36.22	4374	12076850	60 mo	3841	0.9571
+Non-Hispanic Asian or Pacific Islander	Female	Uterus	II	3.83	463	12076850	60 mo	392	0.8684
+Non-Hispanic Asian or Pacific Islander	Female	Uterus	III	8.61	1040	12076850	60 mo	931	0.7187
+Non-Hispanic Asian or Pacific Islander	Female	Uterus	IV	4.37	528	12076850	60 mo	443	0.2351
+Non-Hispanic Asian or Pacific Islander	Female	Uterus	Unknown/missing	6.56	792	12076850	60 mo	642	0.5387
+Non-Hispanic Asian or Pacific Islander	Female	Melanoma of the Skin	I	1.25	151	12076850	60 mo	111	0.9557
+Non-Hispanic Asian or Pacific Islander	Female	Melanoma of the Skin	II	0.46	55	12076850	60 mo	45	0.8726
+Non-Hispanic Asian or Pacific Islander	Female	Melanoma of the Skin	III	0.31	37	12076850	60 mo	31	0.7415
+Non-Hispanic Asian or Pacific Islander	Female	Melanoma of the Skin	IV	0.2	24	12076850	60 mo	21	0.1745
+Non-Hispanic Asian or Pacific Islander	Female	Melanoma of the Skin	Unknown/missing	0.33	40	12076850	60 mo	25	0.6684
+Non-Hispanic Asian or Pacific Islander	Female	Thyroid	I	15.72	1898	12076850	60 mo	1582	0.9972
+Non-Hispanic Asian or Pacific Islander	Female	Thyroid	II	3.42	413	12076850	60 mo	361	1
+Non-Hispanic Asian or Pacific Islander	Female	Thyroid	III	7.76	937	12076850	60 mo	788	0.9938
+Non-Hispanic Asian or Pacific Islander	Female	Thyroid	IV	5.04	609	12076850	60 mo	505	0.7541
+Non-Hispanic Asian or Pacific Islander	Female	Thyroid	Unknown/missing	2.41	291	12076850	60 mo	237	0.9671
+Non-Hispanic Asian or Pacific Islander	Female	Cervix	I	4.08	493	12076850	60 mo	456	0.9382
+Non-Hispanic Asian or Pacific Islander	Female	Cervix	II	2.19	265	12076850	60 mo	238	0.7771
+Non-Hispanic Asian or Pacific Islander	Female	Cervix	III	3.23	390	12076850	60 mo	356	0.6226
+Non-Hispanic Asian or Pacific Islander	Female	Cervix	IV	2.14	258	12076850	60 mo	227	0.1788
+Non-Hispanic Asian or Pacific Islander	Female	Cervix	Unknown/missing	1.18	143	12076850	60 mo	110	0.5338
+Non-Hispanic Asian or Pacific Islander	Female	Myeloma	I	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Myeloma	II	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Myeloma	III	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Myeloma	IV	0	0	12076850	60 mo	0	NA
+Non-Hispanic Asian or Pacific Islander	Female	Myeloma	Unknown/missing	8.72	1053	12076850	60 mo	894	0.6167
+Non-Hispanic Asian or Pacific Islander	Female	Stomach	I	5.05	610	12076850	60 mo	499	0.853
+Non-Hispanic Asian or Pacific Islander	Female	Stomach	II	1.88	227	12076850	60 mo	191	0.513
+Non-Hispanic Asian or Pacific Islander	Female	Stomach	III	1.99	240	12076850	60 mo	204	0.3538
+Non-Hispanic Asian or Pacific Islander	Female	Stomach	IV	6.62	799	12076850	60 mo	676	0.0554
+Non-Hispanic Asian or Pacific Islander	Female	Stomach	Unknown/missing	3.75	453	12076850	60 mo	348	0.657
+Non-Hispanic Asian or Pacific Islander	Female	Other	I	6.61	798	12076850	60 mo	629	0.755
+Non-Hispanic Asian or Pacific Islander	Female	Other	II	5.3	640	12076850	60 mo	510	0.5277
+Non-Hispanic Asian or Pacific Islander	Female	Other	III	4.43	535	12076850	60 mo	448	0.4519
+Non-Hispanic Asian or Pacific Islander	Female	Other	IV	7	845	12076850	60 mo	700	0.1688
+Non-Hispanic Asian or Pacific Islander	Female	Other	Unknown/missing	50.31	6076	12076850	60 mo	3676	0.4081
+Hispanic (All Races)	Male	Lung and Bronchus	I	10.62	1555	14639772	60 mo	1073	0.6117
+Hispanic (All Races)	Male	Lung and Bronchus	II	2.83	415	14639772	60 mo	333	0.3955
+Hispanic (All Races)	Male	Lung and Bronchus	III	16.71	2447	14639772	60 mo	1970	0.1684
+Hispanic (All Races)	Male	Lung and Bronchus	IV	37.55	5497	14639772	60 mo	4612	0.0414
+Hispanic (All Races)	Male	Lung and Bronchus	Unknown/missing	8.81	1290	14639772	60 mo	859	0.1811
+Hispanic (All Races)	Male	Colon and Rectum	I	21.22	3106	14639772	60 mo	2537	0.9271
+Hispanic (All Races)	Male	Colon and Rectum	II	21.99	3219	14639772	60 mo	2770	0.8303
+Hispanic (All Races)	Male	Colon and Rectum	III	23.9	3499	14639772	60 mo	3064	0.6826
+Hispanic (All Races)	Male	Colon and Rectum	IV	19.81	2900	14639772	60 mo	2442	0.1351
+Hispanic (All Races)	Male	Colon and Rectum	Unknown/missing	10.87	1591	14639772	60 mo	1225	0.7023
+Hispanic (All Races)	Male	Pancreas	I	1.43	209	14639772	60 mo	165	0.3493
+Hispanic (All Races)	Male	Pancreas	II	5.79	847	14639772	60 mo	695	0.1337
+Hispanic (All Races)	Male	Pancreas	III	2.03	297	14639772	60 mo	253	0.0205
+Hispanic (All Races)	Male	Pancreas	IV	14.39	2107	14639772	60 mo	1823	0.022
+Hispanic (All Races)	Male	Pancreas	Unknown/missing	3.87	567	14639772	60 mo	417	0.2113
+Hispanic (All Races)	Male	Liver	I	16.5	2416	14639772	60 mo	2181	0.3834
+Hispanic (All Races)	Male	Liver	II	9.29	1360	14639772	60 mo	1211	0.3243
+Hispanic (All Races)	Male	Liver	III	9.84	1440	14639772	60 mo	1301	0.0731
+Hispanic (All Races)	Male	Liver	IV	7.57	1108	14639772	60 mo	987	0.0247
+Hispanic (All Races)	Male	Liver	Unknown/missing	12.29	1799	14639772	60 mo	1408	0.0859
+Hispanic (All Races)	Male	Breast	I	0.4	58	14639772	60 mo	46	0.974
+Hispanic (All Races)	Male	Breast	II	0.63	92	14639772	60 mo	81	0.9363
+Hispanic (All Races)	Male	Breast	III	0.21	31	14639772	60 mo	25	0.8699
+Hispanic (All Races)	Male	Breast	IV	0.11	16	14639772	60 mo	13	0.2618
+Hispanic (All Races)	Male	Breast	Unknown/missing	0.13	19	14639772	60 mo	10	1
+Hispanic (All Races)	Male	NHL	I	10.53	1541	14639772	60 mo	1296	0.8047
+Hispanic (All Races)	Male	NHL	II	6.46	946	14639772	60 mo	798	0.7343
+Hispanic (All Races)	Male	NHL	III	7.47	1094	14639772	60 mo	935	0.6732
+Hispanic (All Races)	Male	NHL	IV	16.03	2347	14639772	60 mo	1979	0.5708
+Hispanic (All Races)	Male	NHL	Unknown/missing	3.8	557	14639772	60 mo	411	0.7558
+Hispanic (All Races)	Male	Prostate	I	0.89	130	14639772	60 mo	121	1
+Hispanic (All Races)	Male	Prostate	II	226.1	33100	14639772	60 mo	30767	0.9832
+Hispanic (All Races)	Male	Prostate	III	23.57	3450	14639772	60 mo	3293	0.9731
+Hispanic (All Races)	Male	Prostate	IV	24.88	3643	14639772	60 mo	3370	0.568
+Hispanic (All Races)	Male	Prostate	Unknown/missing	29.4	4304	14639772	60 mo	3692	0.9132
+Hispanic (All Races)	Male	Kidney and Renal Pelvis	I	27.92	4087	14639772	60 mo	3160	0.9544
+Hispanic (All Races)	Male	Kidney and Renal Pelvis	II	4.29	628	14639772	60 mo	534	0.8365
+Hispanic (All Races)	Male	Kidney and Renal Pelvis	III	8.49	1243	14639772	60 mo	1056	0.7639
+Hispanic (All Races)	Male	Kidney and Renal Pelvis	IV	9.66	1414	14639772	60 mo	1214	0.1446
+Hispanic (All Races)	Male	Kidney and Renal Pelvis	Unknown/missing	3.11	456	14639772	60 mo	331	0.6272
+Hispanic (All Races)	Male	Oral cavity and pharynx	I	2.76	404	14639772	60 mo	296	0.862
+Hispanic (All Races)	Male	Oral cavity and pharynx	II	2.38	348	14639772	60 mo	264	0.7996
+Hispanic (All Races)	Male	Oral cavity and pharynx	III	3.25	476	14639772	60 mo	399	0.6996
+Hispanic (All Races)	Male	Oral cavity and pharynx	IV	12.83	1879	14639772	60 mo	1623	0.4921
+Hispanic (All Races)	Male	Oral cavity and pharynx	Unknown/missing	4.03	590	14639772	60 mo	443	0.5556
+Hispanic (All Races)	Male	Ovary	I	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Ovary	II	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Ovary	III	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Ovary	IV	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Ovary	Unknown/missing	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Esophagus	I	1.48	216	14639772	60 mo	166	0.5432
+Hispanic (All Races)	Male	Esophagus	II	1.67	244	14639772	60 mo	199	0.3113
+Hispanic (All Races)	Male	Esophagus	III	2.23	327	14639772	60 mo	280	0.2032
+Hispanic (All Races)	Male	Esophagus	IV	4.22	618	14639772	60 mo	536	0.0358
+Hispanic (All Races)	Male	Esophagus	Unknown/missing	2.18	319	14639772	60 mo	241	0.1912
+Hispanic (All Races)	Male	Urinary Bladder	I	8.56	1253	14639772	60 mo	934	0.8784
+Hispanic (All Races)	Male	Urinary Bladder	II	3.42	500	14639772	60 mo	386	0.6032
+Hispanic (All Races)	Male	Urinary Bladder	III	1.61	236	14639772	60 mo	176	0.4916
+Hispanic (All Races)	Male	Urinary Bladder	IV	3.16	463	14639772	60 mo	360	0.1721
+Hispanic (All Races)	Male	Urinary Bladder	Unknown/missing	2.2	322	14639772	60 mo	209	0.5756
+Hispanic (All Races)	Male	Uterus	I	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Uterus	II	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Uterus	III	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Uterus	IV	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Uterus	Unknown/missing	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Melanoma of the Skin	I	5.55	812	14639772	60 mo	616	0.9709
+Hispanic (All Races)	Male	Melanoma of the Skin	II	1.74	255	14639772	60 mo	194	0.7693
+Hispanic (All Races)	Male	Melanoma of the Skin	III	1.37	201	14639772	60 mo	174	0.5225
+Hispanic (All Races)	Male	Melanoma of the Skin	IV	0.96	140	14639772	60 mo	109	0.177
+Hispanic (All Races)	Male	Melanoma of the Skin	Unknown/missing	1.17	171	14639772	60 mo	115	0.7332
+Hispanic (All Races)	Male	Thyroid	I	3.22	471	14639772	60 mo	371	0.9965
+Hispanic (All Races)	Male	Thyroid	II	1.14	167	14639772	60 mo	138	0.9912
+Hispanic (All Races)	Male	Thyroid	III	2.64	386	14639772	60 mo	312	0.9732
+Hispanic (All Races)	Male	Thyroid	IV	3.14	459	14639772	60 mo	372	0.7375
+Hispanic (All Races)	Male	Thyroid	Unknown/missing	0.83	121	14639772	60 mo	89	0.8927
+Hispanic (All Races)	Male	Cervix	I	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Cervix	II	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Cervix	III	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Cervix	IV	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Cervix	Unknown/missing	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Myeloma	I	0	1	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Myeloma	II	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Myeloma	III	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Myeloma	IV	0	0	14639772	60 mo	0	NA
+Hispanic (All Races)	Male	Myeloma	Unknown/missing	17.63	2581	14639772	60 mo	2188	0.5763
+Hispanic (All Races)	Male	Stomach	I	5.97	874	14639772	60 mo	723	0.6578
+Hispanic (All Races)	Male	Stomach	II	3.36	492	14639772	60 mo	417	0.4536
+Hispanic (All Races)	Male	Stomach	III	2.73	400	14639772	60 mo	346	0.3016
+Hispanic (All Races)	Male	Stomach	IV	12.19	1784	14639772	60 mo	1534	0.063
+Hispanic (All Races)	Male	Stomach	Unknown/missing	5.34	782	14639772	60 mo	592	0.4577
+Hispanic (All Races)	Male	Other	I	12.81	1876	14639772	60 mo	1509	0.7969
+Hispanic (All Races)	Male	Other	II	8.06	1180	14639772	60 mo	958	0.595
+Hispanic (All Races)	Male	Other	III	8.35	1223	14639772	60 mo	994	0.4811
+Hispanic (All Races)	Male	Other	IV	12.58	1842	14639772	60 mo	1551	0.2307
+Hispanic (All Races)	Male	Other	Unknown/missing	79.78	11680	14639772	60 mo	7964	0.4432
+Hispanic (All Races)	Female	Lung and Bronchus	I	12.01	1946	16198726	60 mo	1328	0.7395
+Hispanic (All Races)	Female	Lung and Bronchus	II	1.97	319	16198726	60 mo	236	0.3844
+Hispanic (All Races)	Female	Lung and Bronchus	III	12.59	2039	16198726	60 mo	1566	0.2396
+Hispanic (All Races)	Female	Lung and Bronchus	IV	26.52	4296	16198726	60 mo	3510	0.0644
+Hispanic (All Races)	Female	Lung and Bronchus	Unknown/missing	7.2	1166	16198726	60 mo	791	0.3634
+Hispanic (All Races)	Female	Colon and Rectum	I	15.19	2461	16198726	60 mo	2038	0.942
+Hispanic (All Races)	Female	Colon and Rectum	II	15.4	2495	16198726	60 mo	2124	0.8485
+Hispanic (All Races)	Female	Colon and Rectum	III	17.95	2907	16198726	60 mo	2494	0.7284
+Hispanic (All Races)	Female	Colon and Rectum	IV	13.06	2116	16198726	60 mo	1821	0.154
+Hispanic (All Races)	Female	Colon and Rectum	Unknown/missing	8.51	1379	16198726	60 mo	1082	0.7873
+Hispanic (All Races)	Female	Pancreas	I	1.51	245	16198726	60 mo	192	0.4252
+Hispanic (All Races)	Female	Pancreas	II	5.49	890	16198726	60 mo	735	0.1308
+Hispanic (All Races)	Female	Pancreas	III	2.06	333	16198726	60 mo	280	0.0381
+Hispanic (All Races)	Female	Pancreas	IV	11.25	1823	16198726	60 mo	1531	0.0223
+Hispanic (All Races)	Female	Pancreas	Unknown/missing	3.33	540	16198726	60 mo	400	0.2489
+Hispanic (All Races)	Female	Liver	I	5.84	946	16198726	60 mo	789	0.4096
+Hispanic (All Races)	Female	Liver	II	2.97	481	16198726	60 mo	405	0.3663
+Hispanic (All Races)	Female	Liver	III	2.3	373	16198726	60 mo	310	0.076
+Hispanic (All Races)	Female	Liver	IV	1.94	315	16198726	60 mo	270	0.0353
+Hispanic (All Races)	Female	Liver	Unknown/missing	3.62	587	16198726	60 mo	444	0.1271
+Hispanic (All Races)	Female	Breast	I	103.33	16738	16198726	60 mo	13696	0.9814
+Hispanic (All Races)	Female	Breast	II	80.02	12963	16198726	60 mo	11194	0.9268
+Hispanic (All Races)	Female	Breast	III	28.44	4607	16198726	60 mo	4004	0.7764
+Hispanic (All Races)	Female	Breast	IV	12.84	2080	16198726	60 mo	1683	0.2904
+Hispanic (All Races)	Female	Breast	Unknown/missing	14.55	2357	16198726	60 mo	1718	0.7806
+Hispanic (All Races)	Female	NHL	I	9.85	1595	16198726	60 mo	1290	0.8432
+Hispanic (All Races)	Female	NHL	II	5.57	902	16198726	60 mo	760	0.8004
+Hispanic (All Races)	Female	NHL	III	6.25	1012	16198726	60 mo	851	0.7525
+Hispanic (All Races)	Female	NHL	IV	11.35	1839	16198726	60 mo	1531	0.6441
+Hispanic (All Races)	Female	NHL	Unknown/missing	3.46	561	16198726	60 mo	446	0.7391
+Hispanic (All Races)	Female	Prostate	I	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Prostate	II	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Prostate	III	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Prostate	IV	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Prostate	Unknown/missing	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Kidney and Renal Pelvis	I	17.24	2792	16198726	60 mo	2286	0.9623
+Hispanic (All Races)	Female	Kidney and Renal Pelvis	II	2.52	408	16198726	60 mo	364	0.873
+Hispanic (All Races)	Female	Kidney and Renal Pelvis	III	3.97	643	16198726	60 mo	549	0.7994
+Hispanic (All Races)	Female	Kidney and Renal Pelvis	IV	4.5	729	16198726	60 mo	615	0.1543
+Hispanic (All Races)	Female	Kidney and Renal Pelvis	Unknown/missing	1.75	284	16198726	60 mo	213	0.6576
+Hispanic (All Races)	Female	Oral cavity and pharynx	I	2.09	339	16198726	60 mo	255	0.9204
+Hispanic (All Races)	Female	Oral cavity and pharynx	II	1.33	216	16198726	60 mo	165	0.8244
+Hispanic (All Races)	Female	Oral cavity and pharynx	III	1.46	237	16198726	60 mo	190	0.7195
+Hispanic (All Races)	Female	Oral cavity and pharynx	IV	3.23	524	16198726	60 mo	411	0.5627
+Hispanic (All Races)	Female	Oral cavity and pharynx	Unknown/missing	1.54	249	16198726	60 mo	170	0.6649
+Hispanic (All Races)	Female	Ovary	I	4.94	801	16198726	60 mo	673	0.8996
+Hispanic (All Races)	Female	Ovary	II	2.14	346	16198726	60 mo	290	0.7302
+Hispanic (All Races)	Female	Ovary	III	8.47	1372	16198726	60 mo	1160	0.4241
+Hispanic (All Races)	Female	Ovary	IV	7.51	1216	16198726	60 mo	1057	0.2354
+Hispanic (All Races)	Female	Ovary	Unknown/missing	3.21	520	16198726	60 mo	423	0.3664
+Hispanic (All Races)	Female	Esophagus	I	0.32	52	16198726	60 mo	34	0.5128
+Hispanic (All Races)	Female	Esophagus	II	0.41	66	16198726	60 mo	50	0.463
+Hispanic (All Races)	Female	Esophagus	III	0.48	78	16198726	60 mo	61	0.2402
+Hispanic (All Races)	Female	Esophagus	IV	0.67	109	16198726	60 mo	93	0.0819
+Hispanic (All Races)	Female	Esophagus	Unknown/missing	0.56	91	16198726	60 mo	68	0.1798
+Hispanic (All Races)	Female	Urinary Bladder	I	2.17	351	16198726	60 mo	236	0.8333
+Hispanic (All Races)	Female	Urinary Bladder	II	1.26	204	16198726	60 mo	161	0.5921
+Hispanic (All Races)	Female	Urinary Bladder	III	0.51	83	16198726	60 mo	68	0.5588
+Hispanic (All Races)	Female	Urinary Bladder	IV	1.28	208	16198726	60 mo	158	0.1167
+Hispanic (All Races)	Female	Urinary Bladder	Unknown/missing	0.59	96	16198726	60 mo	64	0.5702
+Hispanic (All Races)	Female	Uterus	I	37.24	6032	16198726	60 mo	5454	0.955
+Hispanic (All Races)	Female	Uterus	II	4.43	718	16198726	60 mo	621	0.8371
+Hispanic (All Races)	Female	Uterus	III	7.76	1257	16198726	60 mo	1089	0.6675
+Hispanic (All Races)	Female	Uterus	IV	4.59	743	16198726	60 mo	653	0.2037
+Hispanic (All Races)	Female	Uterus	Unknown/missing	7.97	1291	16198726	60 mo	1069	0.4762
+Hispanic (All Races)	Female	Melanoma of the Skin	I	6.1	988	16198726	60 mo	775	0.9866
+Hispanic (All Races)	Female	Melanoma of the Skin	II	1.28	208	16198726	60 mo	177	0.7763
+Hispanic (All Races)	Female	Melanoma of the Skin	III	0.98	159	16198726	60 mo	128	0.595
+Hispanic (All Races)	Female	Melanoma of the Skin	IV	0.59	96	16198726	60 mo	66	0.2057
+Hispanic (All Races)	Female	Melanoma of the Skin	Unknown/missing	1.37	222	16198726	60 mo	152	0.874
+Hispanic (All Races)	Female	Thyroid	I	15.22	2466	16198726	60 mo	2091	0.9993
+Hispanic (All Races)	Female	Thyroid	II	3.34	541	16198726	60 mo	453	0.9928
+Hispanic (All Races)	Female	Thyroid	III	7.5	1215	16198726	60 mo	1049	0.9943
+Hispanic (All Races)	Female	Thyroid	IV	4.62	748	16198726	60 mo	620	0.7636
+Hispanic (All Races)	Female	Thyroid	Unknown/missing	2.37	384	16198726	60 mo	307	0.9612
+Hispanic (All Races)	Female	Cervix	I	5.88	952	16198726	60 mo	857	0.9254
+Hispanic (All Races)	Female	Cervix	II	2.8	454	16198726	60 mo	419	0.7532
+Hispanic (All Races)	Female	Cervix	III	3.98	644	16198726	60 mo	588	0.5658
+Hispanic (All Races)	Female	Cervix	IV	3.02	489	16198726	60 mo	446	0.2245
+Hispanic (All Races)	Female	Cervix	Unknown/missing	1.75	283	16198726	60 mo	234	0.5614
+Hispanic (All Races)	Female	Myeloma	I	0	2	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Myeloma	II	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Myeloma	III	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Myeloma	IV	0	0	16198726	60 mo	0	NA
+Hispanic (All Races)	Female	Myeloma	Unknown/missing	13.19	2137	16198726	60 mo	1825	0.5778
+Hispanic (All Races)	Female	Stomach	I	3.68	596	16198726	60 mo	482	0.7052
+Hispanic (All Races)	Female	Stomach	II	1.55	251	16198726	60 mo	210	0.4099
+Hispanic (All Races)	Female	Stomach	III	1.71	277	16198726	60 mo	235	0.2455
+Hispanic (All Races)	Female	Stomach	IV	6.86	1111	16198726	60 mo	944	0.0428
+Hispanic (All Races)	Female	Stomach	Unknown/missing	4.99	809	16198726	60 mo	614	0.6915
+Hispanic (All Races)	Female	Other	I	9.14	1480	16198726	60 mo	1148	0.7551
+Hispanic (All Races)	Female	Other	II	8	1296	16198726	60 mo	1035	0.5548
+Hispanic (All Races)	Female	Other	III	6.85	1110	16198726	60 mo	892	0.5511
+Hispanic (All Races)	Female	Other	IV	10.11	1637	16198726	60 mo	1353	0.1564
+Hispanic (All Races)	Female	Other	Unknown/missing	67.22	10889	16198726	60 mo	7217	0.3948
+Other/unknown	Male	Lung and Bronchus	I	27.52	225	817735	60 mo	169	0.6879
+Other/unknown	Male	Lung and Bronchus	II	7.58	62	817735	60 mo	49	0.4639
+Other/unknown	Male	Lung and Bronchus	III	35.1	287	817735	60 mo	230	0.1749
+Other/unknown	Male	Lung and Bronchus	IV	65.3	534	817735	60 mo	461	0.0279
+Other/unknown	Male	Lung and Bronchus	Unknown/missing	23.23	190	817735	60 mo	117	0.2554
+Other/unknown	Male	Colon and Rectum	I	59.19	484	817735	60 mo	433	0.9723
+Other/unknown	Male	Colon and Rectum	II	36.2	296	817735	60 mo	258	0.8521
+Other/unknown	Male	Colon and Rectum	III	32.65	267	817735	60 mo	234	0.7368
+Other/unknown	Male	Colon and Rectum	IV	28.62	234	817735	60 mo	201	0.1119
+Other/unknown	Male	Colon and Rectum	Unknown/missing	58.33	477	817735	60 mo	387	0.9291
+Other/unknown	Male	Pancreas	I	2.57	21	817735	60 mo	16	0.5
+Other/unknown	Male	Pancreas	II	6.36	52	817735	60 mo	45	0
+Other/unknown	Male	Pancreas	III	2.2	18	817735	60 mo	16	0
+Other/unknown	Male	Pancreas	IV	19.81	162	817735	60 mo	144	0.0324
+Other/unknown	Male	Pancreas	Unknown/missing	7.34	60	817735	60 mo	39	0.6139
+Other/unknown	Male	Liver	I	20.79	170	817735	60 mo	152	0.4195
+Other/unknown	Male	Liver	II	11.13	91	817735	60 mo	80	0.3118
+Other/unknown	Male	Liver	III	13.57	111	817735	60 mo	97	0.1147
+Other/unknown	Male	Liver	IV	10.64	87	817735	60 mo	76	0.0343
+Other/unknown	Male	Liver	Unknown/missing	16.14	132	817735	60 mo	99	0.1483
+Other/unknown	Male	Breast	I	0.49	4	817735	60 mo	3	1
+Other/unknown	Male	Breast	II	1.22	10	817735	60 mo	8	1
+Other/unknown	Male	Breast	III	0.24	2	817735	60 mo	1	1
+Other/unknown	Male	Breast	IV	0	0	817735	60 mo	0	0
+Other/unknown	Male	Breast	Unknown/missing	0.86	7	817735	60 mo	4	1
+Other/unknown	Male	NHL	I	28	229	817735	60 mo	203	0.9344
+Other/unknown	Male	NHL	II	10.76	88	817735	60 mo	71	0.906
+Other/unknown	Male	NHL	III	10.64	87	817735	60 mo	79	0.7906
+Other/unknown	Male	NHL	IV	26.17	214	817735	60 mo	182	0.7911
+Other/unknown	Male	NHL	Unknown/missing	30.69	251	817735	60 mo	211	0.94
+Other/unknown	Male	Prostate	I	2.81	23	817735	60 mo	20	1
+Other/unknown	Male	Prostate	II	998.61	8166	817735	60 mo	7585	0.9924
+Other/unknown	Male	Prostate	III	49.04	401	817735	60 mo	387	0.9934
+Other/unknown	Male	Prostate	IV	40.84	334	817735	60 mo	312	0.6131
+Other/unknown	Male	Prostate	Unknown/missing	509.95	4170	817735	60 mo	3669	0.9923
+Other/unknown	Male	Kidney and Renal Pelvis	I	52.83	432	817735	60 mo	352	0.958
+Other/unknown	Male	Kidney and Renal Pelvis	II	6.85	56	817735	60 mo	47	0.8421
+Other/unknown	Male	Kidney and Renal Pelvis	III	14.92	122	817735	60 mo	106	0.8594
+Other/unknown	Male	Kidney and Renal Pelvis	IV	14.92	122	817735	60 mo	110	0.137
+Other/unknown	Male	Kidney and Renal Pelvis	Unknown/missing	7.83	64	817735	60 mo	53	0.7258
+Other/unknown	Male	Oral cavity and pharynx	I	11.62	95	817735	60 mo	76	0.9016
+Other/unknown	Male	Oral cavity and pharynx	II	7.09	58	817735	60 mo	52	0.9403
+Other/unknown	Male	Oral cavity and pharynx	III	7.7	63	817735	60 mo	55	0.7659
+Other/unknown	Male	Oral cavity and pharynx	IV	29.96	245	817735	60 mo	217	0.6738
+Other/unknown	Male	Oral cavity and pharynx	Unknown/missing	31.8	260	817735	60 mo	197	0.8632
+Other/unknown	Male	Ovary	I	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Ovary	II	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Ovary	III	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Ovary	IV	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Ovary	Unknown/missing	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Esophagus	I	3.91	32	817735	60 mo	28	0.9211
+Other/unknown	Male	Esophagus	II	2.81	23	817735	60 mo	22	0.41
+Other/unknown	Male	Esophagus	III	2.93	24	817735	60 mo	21	0
+Other/unknown	Male	Esophagus	IV	6.97	57	817735	60 mo	49	0
+Other/unknown	Male	Esophagus	Unknown/missing	4.89	40	817735	60 mo	29	0.4885
+Other/unknown	Male	Urinary Bladder	I	23.11	189	817735	60 mo	154	0.903
+Other/unknown	Male	Urinary Bladder	II	6.85	56	817735	60 mo	42	0.6374
+Other/unknown	Male	Urinary Bladder	III	2.32	19	817735	60 mo	14	0.7013
+Other/unknown	Male	Urinary Bladder	IV	6.36	52	817735	60 mo	43	0.1282
+Other/unknown	Male	Urinary Bladder	Unknown/missing	13.21	108	817735	60 mo	87	0.8844
+Other/unknown	Male	Uterus	I	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Uterus	II	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Uterus	III	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Uterus	IV	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Uterus	Unknown/missing	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Melanoma of the Skin	I	258.76	2116	817735	60 mo	1921	0.998
+Other/unknown	Male	Melanoma of the Skin	II	10.39	85	817735	60 mo	75	0.943
+Other/unknown	Male	Melanoma of the Skin	III	3.3	27	817735	60 mo	22	0.5593
+Other/unknown	Male	Melanoma of the Skin	IV	1.59	13	817735	60 mo	10	0.7778
+Other/unknown	Male	Melanoma of the Skin	Unknown/missing	77.29	632	817735	60 mo	560	0.9878
+Other/unknown	Male	Thyroid	I	7.7	63	817735	60 mo	55	1
+Other/unknown	Male	Thyroid	II	2.2	18	817735	60 mo	14	1
+Other/unknown	Male	Thyroid	III	5.26	43	817735	60 mo	39	0.9744
+Other/unknown	Male	Thyroid	IV	3.91	32	817735	60 mo	29	0.7866
+Other/unknown	Male	Thyroid	Unknown/missing	4.52	37	817735	60 mo	32	1
+Other/unknown	Male	Cervix	I	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Cervix	II	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Cervix	III	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Cervix	IV	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Cervix	Unknown/missing	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Myeloma	I	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Myeloma	II	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Myeloma	III	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Myeloma	IV	0	0	817735	60 mo	0	NA
+Other/unknown	Male	Myeloma	Unknown/missing	26.78	219	817735	60 mo	179	0.7413
+Other/unknown	Male	Stomach	I	9.42	77	817735	60 mo	61	0.6563
+Other/unknown	Male	Stomach	II	3.91	32	817735	60 mo	30	0.2755
+Other/unknown	Male	Stomach	III	2.32	19	817735	60 mo	16	0.3424
+Other/unknown	Male	Stomach	IV	12.6	103	817735	60 mo	91	0.0376
+Other/unknown	Male	Stomach	Unknown/missing	10.15	83	817735	60 mo	64	0.6247
+Other/unknown	Male	Other	I	31.06	254	817735	60 mo	225	0.894
+Other/unknown	Male	Other	II	12.35	101	817735	60 mo	88	0.7215
+Other/unknown	Male	Other	III	11.98	98	817735	60 mo	88	0.5883
+Other/unknown	Male	Other	IV	15.04	123	817735	60 mo	108	0.3071
+Other/unknown	Male	Other	Unknown/missing	271.11	2217	817735	60 mo	1598	0.7841
+Other/unknown	Female	Lung and Bronchus	I	27.26	253	928102	60 mo	170	0.7195
+Other/unknown	Female	Lung and Bronchus	II	5.17	48	928102	60 mo	34	0.51
+Other/unknown	Female	Lung and Bronchus	III	27.8	258	928102	60 mo	208	0.3006
+Other/unknown	Female	Lung and Bronchus	IV	45.9	426	928102	60 mo	353	0.0522
+Other/unknown	Female	Lung and Bronchus	Unknown/missing	18.42	171	928102	60 mo	96	0.3565
+Other/unknown	Female	Colon and Rectum	I	39.76	369	928102	60 mo	310	0.9566
+Other/unknown	Female	Colon and Rectum	II	30.06	279	928102	60 mo	243	0.7859
+Other/unknown	Female	Colon and Rectum	III	27.48	255	928102	60 mo	221	0.7549
+Other/unknown	Female	Colon and Rectum	IV	21.01	195	928102	60 mo	157	0.105
+Other/unknown	Female	Colon and Rectum	Unknown/missing	41.91	389	928102	60 mo	320	0.9383
+Other/unknown	Female	Pancreas	I	1.72	16	928102	60 mo	14	0.4634
+Other/unknown	Female	Pancreas	II	5.6	52	928102	60 mo	45	0.1105
+Other/unknown	Female	Pancreas	III	2.37	22	928102	60 mo	18	0
+Other/unknown	Female	Pancreas	IV	11.96	111	928102	60 mo	96	0.0371
+Other/unknown	Female	Pancreas	Unknown/missing	4.74	44	928102	60 mo	29	0.4204
+Other/unknown	Female	Liver	I	8.3	77	928102	60 mo	66	0.3419
+Other/unknown	Female	Liver	II	2.69	25	928102	60 mo	22	0.4602
+Other/unknown	Female	Liver	III	3.45	32	928102	60 mo	29	0.1029
+Other/unknown	Female	Liver	IV	2.05	19	928102	60 mo	17	0
+Other/unknown	Female	Liver	Unknown/missing	6.25	58	928102	60 mo	45	0.1293
+Other/unknown	Female	Breast	I	197.28	1831	928102	60 mo	1557	0.9827
+Other/unknown	Female	Breast	II	121.97	1132	928102	60 mo	991	0.944
+Other/unknown	Female	Breast	III	36.63	340	928102	60 mo	300	0.8379
+Other/unknown	Female	Breast	IV	18.42	171	928102	60 mo	131	0.3777
+Other/unknown	Female	Breast	Unknown/missing	67.66	628	928102	60 mo	451	0.9193
+Other/unknown	Female	NHL	I	20.58	191	928102	60 mo	163	0.95
+Other/unknown	Female	NHL	II	6.68	62	928102	60 mo	53	0.902
+Other/unknown	Female	NHL	III	7.54	70	928102	60 mo	60	0.8604
+Other/unknown	Female	NHL	IV	21.55	200	928102	60 mo	169	0.8347
+Other/unknown	Female	NHL	Unknown/missing	28.34	263	928102	60 mo	220	0.9744
+Other/unknown	Female	Prostate	I	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Prostate	II	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Prostate	III	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Prostate	IV	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Prostate	Unknown/missing	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Kidney and Renal Pelvis	I	33.19	308	928102	60 mo	251	0.9748
+Other/unknown	Female	Kidney and Renal Pelvis	II	2.91	27	928102	60 mo	24	0.8266
+Other/unknown	Female	Kidney and Renal Pelvis	III	6.9	64	928102	60 mo	52	0.9118
+Other/unknown	Female	Kidney and Renal Pelvis	IV	6.79	63	928102	60 mo	56	0.1589
+Other/unknown	Female	Kidney and Renal Pelvis	Unknown/missing	4.09	38	928102	60 mo	27	0.8519
+Other/unknown	Female	Oral cavity and pharynx	I	6.46	60	928102	60 mo	47	0.971
+Other/unknown	Female	Oral cavity and pharynx	II	2.8	26	928102	60 mo	21	0.9048
+Other/unknown	Female	Oral cavity and pharynx	III	3.02	28	928102	60 mo	23	0.7043
+Other/unknown	Female	Oral cavity and pharynx	IV	6.68	62	928102	60 mo	51	0.5009
+Other/unknown	Female	Oral cavity and pharynx	Unknown/missing	13.36	124	928102	60 mo	103	0.9456
+Other/unknown	Female	Ovary	I	6.68	62	928102	60 mo	54	0.9796
+Other/unknown	Female	Ovary	II	2.48	23	928102	60 mo	19	0.7998
+Other/unknown	Female	Ovary	III	11.21	104	928102	60 mo	94	0.4391
+Other/unknown	Female	Ovary	IV	10.24	95	928102	60 mo	83	0.2375
+Other/unknown	Female	Ovary	Unknown/missing	6.03	56	928102	60 mo	45	0.4922
+Other/unknown	Female	Esophagus	I	0.86	8	928102	60 mo	5	0.5333
+Other/unknown	Female	Esophagus	II	0.86	8	928102	60 mo	6	0.625
+Other/unknown	Female	Esophagus	III	1.08	10	928102	60 mo	7	0.4286
+Other/unknown	Female	Esophagus	IV	1.4	13	928102	60 mo	11	0
+Other/unknown	Female	Esophagus	Unknown/missing	2.05	19	928102	60 mo	16	0.4858
+Other/unknown	Female	Urinary Bladder	I	5.5	51	928102	60 mo	47	0.9773
+Other/unknown	Female	Urinary Bladder	II	1.51	14	928102	60 mo	11	0.7273
+Other/unknown	Female	Urinary Bladder	III	0.54	5	928102	60 mo	4	0.5
+Other/unknown	Female	Urinary Bladder	IV	2.15	20	928102	60 mo	15	0
+Other/unknown	Female	Urinary Bladder	Unknown/missing	4.31	40	928102	60 mo	25	1
+Other/unknown	Female	Uterus	I	69.6	646	928102	60 mo	588	0.9695
+Other/unknown	Female	Uterus	II	6.57	61	928102	60 mo	55	0.9531
+Other/unknown	Female	Uterus	III	12.18	113	928102	60 mo	106	0.7499
+Other/unknown	Female	Uterus	IV	4.74	44	928102	60 mo	37	0.2596
+Other/unknown	Female	Uterus	Unknown/missing	22.09	205	928102	60 mo	149	0.7986
+Other/unknown	Female	Melanoma of the Skin	I	164.42	1526	928102	60 mo	1395	0.9967
+Other/unknown	Female	Melanoma of the Skin	II	5.5	51	928102	60 mo	45	0.9473
+Other/unknown	Female	Melanoma of the Skin	III	2.26	21	928102	60 mo	18	0.8141
+Other/unknown	Female	Melanoma of the Skin	IV	0.97	9	928102	60 mo	6	0.6667
+Other/unknown	Female	Melanoma of the Skin	Unknown/missing	45.47	422	928102	60 mo	382	0.9861
+Other/unknown	Female	Thyroid	I	28.12	261	928102	60 mo	237	1
+Other/unknown	Female	Thyroid	II	5.71	53	928102	60 mo	45	1
+Other/unknown	Female	Thyroid	III	9.37	87	928102	60 mo	77	0.9646
+Other/unknown	Female	Thyroid	IV	4.63	43	928102	60 mo	35	0.8097
+Other/unknown	Female	Thyroid	Unknown/missing	9.59	89	928102	60 mo	73	1
+Other/unknown	Female	Cervix	I	7.65	71	928102	60 mo	60	0.9423
+Other/unknown	Female	Cervix	II	1.83	17	928102	60 mo	17	0.5801
+Other/unknown	Female	Cervix	III	3.23	30	928102	60 mo	28	0.557
+Other/unknown	Female	Cervix	IV	2.91	27	928102	60 mo	25	0.262
+Other/unknown	Female	Cervix	Unknown/missing	3.45	32	928102	60 mo	22	0.802
+Other/unknown	Female	Myeloma	I	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Myeloma	II	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Myeloma	III	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Myeloma	IV	0	0	928102	60 mo	0	NA
+Other/unknown	Female	Myeloma	Unknown/missing	24.35	226	928102	60 mo	185	0.7429
+Other/unknown	Female	Stomach	I	3.66	34	928102	60 mo	28	0.6409
+Other/unknown	Female	Stomach	II	1.94	18	928102	60 mo	15	0.2872
+Other/unknown	Female	Stomach	III	1.51	14	928102	60 mo	11	0
+Other/unknown	Female	Stomach	IV	5.5	51	928102	60 mo	44	0
+Other/unknown	Female	Stomach	Unknown/missing	9.7	90	928102	60 mo	75	0.8605
+Other/unknown	Female	Other	I	16.7	155	928102	60 mo	127	0.8812
+Other/unknown	Female	Other	II	11.96	111	928102	60 mo	95	0.7097
+Other/unknown	Female	Other	III	9.8	91	928102	60 mo	74	0.5903
+Other/unknown	Female	Other	IV	11.74	109	928102	60 mo	83	0.127
+Other/unknown	Female	Other	Unknown/missing	178	1652	928102	60 mo	1085	0.7191
+All	Male	Lung and Bronchus	I	34.47	38893	112825904	60 mo	25284	0.6157
+All	Male	Lung and Bronchus	II	8.04	9076	112825904	60 mo	6821	0.3921
+All	Male	Lung and Bronchus	III	41.76	47118	112825904	60 mo	36744	0.1771
+All	Male	Lung and Bronchus	IV	83.3	93989	112825904	60 mo	76368	0.0383
+All	Male	Lung and Bronchus	Unknown/missing	16.26	18349	112825904	60 mo	11202	0.1989
+All	Male	Colon and Rectum	I	28.93	32641	112825904	60 mo	25493	0.9321
+All	Male	Colon and Rectum	II	26.55	29957	112825904	60 mo	24443	0.834
+All	Male	Colon and Rectum	III	28.4	32045	112825904	60 mo	26746	0.7002
+All	Male	Colon and Rectum	IV	23.78	26835	112825904	60 mo	22353	0.1256
+All	Male	Colon and Rectum	Unknown/missing	11.19	12625	112825904	60 mo	9243	0.7304
+All	Male	Pancreas	I	2.2	2479	112825904	60 mo	1888	0.3814
+All	Male	Pancreas	II	8.33	9402	112825904	60 mo	7519	0.1461
+All	Male	Pancreas	III	2.92	3299	112825904	60 mo	2737	0.0401
+All	Male	Pancreas	IV	18.49	20861	112825904	60 mo	17295	0.0204
+All	Male	Pancreas	Unknown/missing	4.8	5421	112825904	60 mo	3652	0.2438
+All	Male	Liver	I	11.43	12898	112825904	60 mo	11068	0.4298
+All	Male	Liver	II	6.41	7236	112825904	60 mo	6298	0.3674
+All	Male	Liver	III	7.52	8481	112825904	60 mo	7467	0.0792
+All	Male	Liver	IV	5.73	6466	112825904	60 mo	5676	0.0182
+All	Male	Liver	Unknown/missing	7.66	8643	112825904	60 mo	6545	0.1041
+All	Male	Breast	I	0.91	1028	112825904	60 mo	769	0.9631
+All	Male	Breast	II	1.22	1382	112825904	60 mo	1104	0.9178
+All	Male	Breast	III	0.46	515	112825904	60 mo	427	0.8092
+All	Male	Breast	IV	0.25	286	112825904	60 mo	223	0.2274
+All	Male	Breast	Unknown/missing	0.18	202	112825904	60 mo	131	0.7531
+All	Male	NHL	I	14.45	16305	112825904	60 mo	12594	0.8391
+All	Male	NHL	II	7.6	8570	112825904	60 mo	6818	0.78
+All	Male	NHL	III	9.23	10416	112825904	60 mo	8300	0.7066
+All	Male	NHL	IV	19.94	22492	112825904	60 mo	17823	0.6395
+All	Male	NHL	Unknown/missing	4.45	5019	112825904	60 mo	3477	0.7725
+All	Male	Prostate	I	1.32	1486	112825904	60 mo	1279	0.9899
+All	Male	Prostate	II	342.12	385996	112825904	60 mo	349970	0.9844
+All	Male	Prostate	III	33.72	38050	112825904	60 mo	35319	0.9764
+All	Male	Prostate	IV	27.77	31328	112825904	60 mo	28425	0.5556
+All	Male	Prostate	Unknown/missing	29.51	33298	112825904	60 mo	28317	0.9203
+All	Male	Kidney and Renal Pelvis	I	32.35	36504	112825904	60 mo	26361	0.9533
+All	Male	Kidney and Renal Pelvis	II	4.68	5285	112825904	60 mo	4257	0.8642
+All	Male	Kidney and Renal Pelvis	III	8.64	9750	112825904	60 mo	7759	0.7526
+All	Male	Kidney and Renal Pelvis	IV	9.86	11122	112825904	60 mo	9215	0.1425
+All	Male	Kidney and Renal Pelvis	Unknown/missing	3.47	3914	112825904	60 mo	2449	0.6805
+All	Male	Oral cavity and pharynx	I	6.85	7727	112825904	60 mo	5365	0.8958
+All	Male	Oral cavity and pharynx	II	4.7	5300	112825904	60 mo	3900	0.7932
+All	Male	Oral cavity and pharynx	III	6.58	7421	112825904	60 mo	5979	0.7247
+All	Male	Oral cavity and pharynx	IV	23.2	26176	112825904	60 mo	22165	0.5868
+All	Male	Oral cavity and pharynx	Unknown/missing	7.59	8560	112825904	60 mo	6037	0.678
+All	Male	Ovary	I	0	0	112825904	60 mo	0	NA
+All	Male	Ovary	II	0	0	112825904	60 mo	0	NA
+All	Male	Ovary	III	0	0	112825904	60 mo	0	NA
+All	Male	Ovary	IV	0	0	112825904	60 mo	0	NA
+All	Male	Ovary	Unknown/missing	0	0	112825904	60 mo	0	NA
+All	Male	Esophagus	I	3.07	3468	112825904	60 mo	2595	0.604
+All	Male	Esophagus	II	3.62	4085	112825904	60 mo	3254	0.3689
+All	Male	Esophagus	III	4.14	4675	112825904	60 mo	3866	0.2131
+All	Male	Esophagus	IV	7.48	8438	112825904	60 mo	7052	0.038
+All	Male	Esophagus	Unknown/missing	2.89	3256	112825904	60 mo	2283	0.1812
+All	Male	Urinary Bladder	I	18.81	21223	112825904	60 mo	15385	0.8674
+All	Male	Urinary Bladder	II	8.12	9156	112825904	60 mo	6821	0.6328
+All	Male	Urinary Bladder	III	3.21	3625	112825904	60 mo	2671	0.507
+All	Male	Urinary Bladder	IV	5.72	6452	112825904	60 mo	4873	0.171
+All	Male	Urinary Bladder	Unknown/missing	3.2	3609	112825904	60 mo	2291	0.6655
+All	Male	Uterus	I	0	0	112825904	60 mo	0	NA
+All	Male	Uterus	II	0	0	112825904	60 mo	0	NA
+All	Male	Uterus	III	0	0	112825904	60 mo	0	NA
+All	Male	Uterus	IV	0	0	112825904	60 mo	0	NA
+All	Male	Uterus	Unknown/missing	0	0	112825904	60 mo	0	NA
+All	Male	Melanoma of the Skin	I	47.16	53207	112825904	60 mo	37610	0.977
+All	Male	Melanoma of the Skin	II	7.97	8992	112825904	60 mo	6614	0.8035
+All	Male	Melanoma of the Skin	III	4.62	5211	112825904	60 mo	4020	0.5866
+All	Male	Melanoma of the Skin	IV	3.14	3545	112825904	60 mo	2511	0.193
+All	Male	Melanoma of the Skin	Unknown/missing	6.56	7398	112825904	60 mo	4956	0.8865
+All	Male	Thyroid	I	5.7	6429	112825904	60 mo	4882	0.9949
+All	Male	Thyroid	II	1.84	2073	112825904	60 mo	1623	0.9956
+All	Male	Thyroid	III	3.32	3749	112825904	60 mo	2948	0.9796
+All	Male	Thyroid	IV	2.89	3265	112825904	60 mo	2541	0.7196
+All	Male	Thyroid	Unknown/missing	1.05	1183	112825904	60 mo	813	0.9344
+All	Male	Cervix	I	0	0	112825904	60 mo	0	NA
+All	Male	Cervix	II	0	0	112825904	60 mo	0	NA
+All	Male	Cervix	III	0	0	112825904	60 mo	0	NA
+All	Male	Cervix	IV	0	0	112825904	60 mo	0	NA
+All	Male	Cervix	Unknown/missing	0	0	112825904	60 mo	0	NA
+All	Male	Myeloma	I	0	6	112825904	60 mo	0	NA
+All	Male	Myeloma	II	0	0	112825904	60 mo	0	NA
+All	Male	Myeloma	III	0	0	112825904	60 mo	0	NA
+All	Male	Myeloma	IV	0	1	112825904	60 mo	0	NA
+All	Male	Myeloma	Unknown/missing	21.4	24146	112825904	60 mo	19193	0.5901
+All	Male	Stomach	I	5.59	6304	112825904	60 mo	4871	0.6286
+All	Male	Stomach	II	2.94	3317	112825904	60 mo	2714	0.4044
+All	Male	Stomach	III	2.43	2745	112825904	60 mo	2297	0.2695
+All	Male	Stomach	IV	9.29	10479	112825904	60 mo	8740	0.0475
+All	Male	Stomach	Unknown/missing	4.66	5260	112825904	60 mo	3802	0.5272
+All	Male	Other	I	17.92	20215	112825904	60 mo	15574	0.822
+All	Male	Other	II	11.13	12553	112825904	60 mo	9722	0.6469
+All	Male	Other	III	10.88	12279	112825904	60 mo	9650	0.5112
+All	Male	Other	IV	14.64	16523	112825904	60 mo	13230	0.2536
+All	Male	Other	Unknown/missing	120.02	135417	112825904	60 mo	84254	0.4916
+All	Female	Lung and Bronchus	I	32.87	40846	124255137	60 mo	26521	0.7071
+All	Female	Lung and Bronchus	II	5.83	7245	124255137	60 mo	5200	0.4531
+All	Female	Lung and Bronchus	III	31.81	39528	124255137	60 mo	30114	0.2243
+All	Female	Lung and Bronchus	IV	60.4	75048	124255137	60 mo	59936	0.0614
+All	Female	Lung and Bronchus	Unknown/missing	13.67	16984	124255137	60 mo	10717	0.3331
+All	Female	Colon and Rectum	I	20.74	25767	124255137	60 mo	20083	0.9444
+All	Female	Colon and Rectum	II	19.93	24764	124255137	60 mo	20057	0.8457
+All	Female	Colon and Rectum	III	21.66	26913	124255137	60 mo	22160	0.719
+All	Female	Colon and Rectum	IV	16.91	21009	124255137	60 mo	17470	0.1422
+All	Female	Colon and Rectum	Unknown/missing	8.62	10708	124255137	60 mo	7989	0.767
+All	Female	Pancreas	I	1.91	2378	124255137	60 mo	1780	0.3649
+All	Female	Pancreas	II	7.05	8764	124255137	60 mo	7002	0.1416
+All	Female	Pancreas	III	2.41	2995	124255137	60 mo	2450	0.046
+All	Female	Pancreas	IV	13.45	16713	124255137	60 mo	13741	0.0203
+All	Female	Pancreas	Unknown/missing	3.57	4435	124255137	60 mo	3091	0.2443
+All	Female	Liver	I	3.66	4547	124255137	60 mo	3721	0.4478
+All	Female	Liver	II	1.65	2053	124255137	60 mo	1690	0.3705
+All	Female	Liver	III	1.66	2057	124255137	60 mo	1744	0.1219
+All	Female	Liver	IV	1.27	1573	124255137	60 mo	1320	0.0341
+All	Female	Liver	Unknown/missing	2.19	2717	124255137	60 mo	1998	0.1366
+All	Female	Breast	I	163.57	203242	124255137	60 mo	158157	0.9825
+All	Female	Breast	II	101.41	126008	124255137	60 mo	104123	0.9287
+All	Female	Breast	III	32.22	40036	124255137	60 mo	33549	0.7647
+All	Female	Breast	IV	17.9	22240	124255137	60 mo	17807	0.2736
+All	Female	Breast	Unknown/missing	14.36	17843	124255137	60 mo	12267	0.7636
+All	Female	NHL	I	11.48	14268	124255137	60 mo	11006	0.8694
+All	Female	NHL	II	5.7	7081	124255137	60 mo	5642	0.8044
+All	Female	NHL	III	6.62	8226	124255137	60 mo	6644	0.7532
+All	Female	NHL	IV	13.4	16654	124255137	60 mo	13243	0.6929
+All	Female	NHL	Unknown/missing	3.33	4132	124255137	60 mo	3024	0.813
+All	Female	Prostate	I	0	0	124255137	60 mo	0	NA
+All	Female	Prostate	II	0	0	124255137	60 mo	0	NA
+All	Female	Prostate	III	0	0	124255137	60 mo	0	NA
+All	Female	Prostate	IV	0	0	124255137	60 mo	0	NA
+All	Female	Prostate	Unknown/missing	0	0	124255137	60 mo	0	NA
+All	Female	Kidney and Renal Pelvis	I	17.42	21647	124255137	60 mo	16324	0.9601
+All	Female	Kidney and Renal Pelvis	II	2.19	2723	124255137	60 mo	2289	0.8663
+All	Female	Kidney and Renal Pelvis	III	3.55	4409	124255137	60 mo	3537	0.7411
+All	Female	Kidney and Renal Pelvis	IV	4.14	5142	124255137	60 mo	4238	0.136
+All	Female	Kidney and Renal Pelvis	Unknown/missing	1.65	2050	124255137	60 mo	1330	0.676
+All	Female	Oral cavity and pharynx	I	3.98	4946	124255137	60 mo	3418	0.9071
+All	Female	Oral cavity and pharynx	II	2	2490	124255137	60 mo	1801	0.8258
+All	Female	Oral cavity and pharynx	III	2.05	2547	124255137	60 mo	1943	0.7085
+All	Female	Oral cavity and pharynx	IV	5.2	6463	124255137	60 mo	4994	0.5353
+All	Female	Oral cavity and pharynx	Unknown/missing	2.97	3695	124255137	60 mo	2494	0.7225
+All	Female	Ovary	I	5.84	7256	124255137	60 mo	5966	0.8964
+All	Female	Ovary	II	2.47	3067	124255137	60 mo	2507	0.7198
+All	Female	Ovary	III	10.94	13596	124255137	60 mo	11272	0.4041
+All	Female	Ovary	IV	8.38	10407	124255137	60 mo	8889	0.2113
+All	Female	Ovary	Unknown/missing	3.15	3915	124255137	60 mo	2956	0.3503
+All	Female	Esophagus	I	0.76	942	124255137	60 mo	660	0.4905
+All	Female	Esophagus	II	0.9	1117	124255137	60 mo	822	0.418
+All	Female	Esophagus	III	0.94	1163	124255137	60 mo	893	0.284
+All	Female	Esophagus	IV	1.29	1609	124255137	60 mo	1306	0.0768
+All	Female	Esophagus	Unknown/missing	0.83	1026	124255137	60 mo	677	0.2237
+All	Female	Urinary Bladder	I	4.15	5160	124255137	60 mo	3623	0.8398
+All	Female	Urinary Bladder	II	2.26	2813	124255137	60 mo	2050	0.5687
+All	Female	Urinary Bladder	III	0.93	1153	124255137	60 mo	883	0.4587
+All	Female	Urinary Bladder	IV	1.92	2383	124255137	60 mo	1843	0.141
+All	Female	Urinary Bladder	Unknown/missing	0.89	1110	124255137	60 mo	676	0.6144
+All	Female	Uterus	I	49.73	61791	124255137	60 mo	53885	0.9534
+All	Female	Uterus	II	5.08	6310	124255137	60 mo	5436	0.8539
+All	Female	Uterus	III	10.01	12437	124255137	60 mo	10664	0.6765
+All	Female	Uterus	IV	5.15	6396	124255137	60 mo	5456	0.1902
+All	Female	Uterus	Unknown/missing	8.4	10440	124255137	60 mo	8477	0.5129
+All	Female	Melanoma of the Skin	I	26.47	32893	124255137	60 mo	24967	0.98740000000000006
+All	Female	Melanoma of the Skin	II	3.51	4356	124255137	60 mo	3387	0.8574
+All	Female	Melanoma of the Skin	III	1.94	2408	124255137	60 mo	1868	0.6818
+All	Female	Melanoma of the Skin	IV	1.15	1424	124255137	60 mo	1043	0.2405
+All	Female	Melanoma of the Skin	Unknown/missing	3.58	4449	124255137	60 mo	3128	0.922
+All	Female	Thyroid	I	18.52	23006	124255137	60 mo	18784	0.9982
+All	Female	Thyroid	II	3.69	4587	124255137	60 mo	3843	0.9937
+All	Female	Thyroid	III	6.02	7474	124255137	60 mo	6108	0.9907
+All	Female	Thyroid	IV	3.12	3877	124255137	60 mo	3080	0.7421
+All	Female	Thyroid	Unknown/missing	2.01	2492	124255137	60 mo	1926	0.9684
+All	Female	Cervix	I	4.03	5008	124255137	60 mo	4368	0.9089
+All	Female	Cervix	II	1.87	2318	124255137	60 mo	2069	0.7295
+All	Female	Cervix	III	2.71	3368	124255137	60 mo	3016	0.5202
+All	Female	Cervix	IV	2.36	2937	124255137	60 mo	2615	0.1835
+All	Female	Cervix	Unknown/missing	1.18	1465	124255137	60 mo	1117	0.4898
+All	Female	Myeloma	I	0	7	124255137	60 mo	0	NA
+All	Female	Myeloma	II	0	0	124255137	60 mo	0	NA
+All	Female	Myeloma	III	0	0	124255137	60 mo	0	NA
+All	Female	Myeloma	IV	0	1	124255137	60 mo	0	NA
+All	Female	Myeloma	Unknown/missing	14.53	18051	124255137	60 mo	14830	0.5977
+All	Female	Stomach	I	2.61	3243	124255137	60 mo	2499	0.7156
+All	Female	Stomach	II	1.05	1308	124255137	60 mo	1078	0.4239
+All	Female	Stomach	III	1.06	1318	124255137	60 mo	1069	0.258
+All	Female	Stomach	IV	4.19	5204	124255137	60 mo	4277	0.0492
+All	Female	Stomach	Unknown/missing	3.53	4386	124255137	60 mo	3228	0.7233
+All	Female	Other	I	11	13664	124255137	60 mo	9865	0.8137
+All	Female	Other	II	9.12	11337	124255137	60 mo	8636	0.6642
+All	Female	Other	III	8.71	10820	124255137	60 mo	8384	0.549
+All	Female	Other	IV	9.71	12060	124255137	60 mo	9607	0.2097
+All	Female	Other	Unknown/missing	85.71	106501	124255137	60 mo	65354	0.458

@@ -1,0 +1,10 @@
+Race_origin	Race/ethnic origin as recorded in SEER variables
+Sex	Sex as recorded in SEER
+Cancer	Cancer type SEER recode
+Stage	AJCC 6th edition as recorded in SEER
+Rate	Incidence rate per year
+Count	Cases recorded over the time interval in this population
+Pop	Total relevant population size
+Time	5 year survival (60 months)
+N	Number used to calculate survival
+CSS	Cause-specific survival for cancer death
